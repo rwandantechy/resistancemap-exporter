@@ -1,0 +1,18 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Test and runtime files
+.coverage
+.coverage.*
+htmlcov/
+
+# Generated workbook files
+data/output/*.xlsx
+data/output/~$*.xlsx
+
+# macOS
+.DS_Store
