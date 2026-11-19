@@ -1,0 +1,824 @@
+{
+  "country": "Dominican Republic",
+  "region": "Latin America & Caribbean",
+  "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=72&country=Dominican+Republic",
+  "captured_at": "2026-11-19T06:49:55.585599+00:00",
+  "responses": [
+    {
+      "url": "https://resistancemap.onehealthtrust.org/getData.php",
+      "method": "POST",
+      "post_data": "abxId%5B%5D=33&abxId%5B%5D=34&abxId%5B%5D=7&abxId%5B%5D=10&abxId%5B%5D=40&countryId=72&charttype=trend&page=use&units=DDD&defaultValues=true&countryPage=true&accessvariable=WCSsy6XcN4Hbit2A9KBOt6Cvh",
+      "payload": [
+        {
+          "country": "Dominican Republic"
+        },
+        [
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 545.8635,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2000,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 633.55735,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2001,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 640.17801,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2002,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 587.33559,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2003,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 773.60338,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2004,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 739.14776,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2005,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 817.46432,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2006,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 775.73753,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2007,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 825.35598,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2008,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 834.04882,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2009,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 910.89442,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2010,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 926.67224,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2011,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 895.30873,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2012,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 1016.83084,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2013,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 1017.56093,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2014,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 941.36145,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2015,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 147.94475,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2000,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 140.13075,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2001,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 120.76223,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2002,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 118.0848,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2003,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 123.53192,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2004,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 98.7366,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2005,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 109.37602,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2006,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 106.8446,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2007,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 111.24169,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2008,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 126.19925,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2009,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 151.28513,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2010,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 156.28889,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2011,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 163.08792,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2012,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 184.68232,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2013,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 178.08882,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2014,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 164.22665,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2015,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 118.73263,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2000,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 138.32174,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2001,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 144.11177,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2002,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 143.72659,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2003,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 175.00625,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2004,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 231.5844,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2005,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 250.06484,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2006,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 295.64309,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2007,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 314.52787,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2008,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 311.79991,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2009,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 407.38109,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2010,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 407.49352,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2011,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 415.16771,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2012,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 487.27267,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2013,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 483.8452,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2014,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 440.36277,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2015,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 180.3443,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2000,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 175.43535,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2001,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 162.53449,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2002,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 151.99055,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2003,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 161.79369,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2004,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 176.72717,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2005,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 194.72593,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2006,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 188.8827,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2007,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 178.33444,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2008,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 193.509,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2009,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 222.74488,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2010,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 239.97453,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2011,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 251.40275,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2012,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 293.67211,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2013,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 298.00886,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2014,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 250.39866,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2015,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 175.79676,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2000,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 169.04191,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2001,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 142.15852,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2002,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 132.31231,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2003,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 110.33,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2004,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 69.32005,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2005,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 85.90526,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2006,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 79.32461,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2007,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 73.64647,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2008,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 75.47518,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2009,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 69.27445,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2010,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 46.64917,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2011,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 50.59409,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2012,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 47.84715,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2013,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 51.73408,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2014,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 45.56531,
+            "CountryName": "Dominican Republic",
+            "ISO3": "DOM",
+            "code": "DO",
+            "Year": 2015,
+            "Sector": "Retail"
+          }
+        ],
+        {
+          "minyear": 2000,
+          "maxyear": 2015
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "country": "Democratic Republic of the Congo",
+  "region": "Sub-Saharan Africa",
+  "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=139&country=Democratic+Republic+of+the+Congo",
+  "captured_at": "2026-11-19T06:55:42.693663+00:00",
+  "responses": [
+    {
+      "url": "https://resistancemap.onehealthtrust.org/getData.php",
+      "method": "POST",
+      "post_data": "orgId=11&abxId%5B%5D=6&abxId%5B%5D=5&abxId%5B%5D=7&countryId=139&charttype=trend&page=resistance&resetabxs=false&defaultValues=true&countryPage=true&accessvariable=jZv8*58oDOEJxaSFIqOnVkQ0s",
+      "payload": [
+        {
+          "title": "Democratic Republic of the Congo"
+        },
+        [
+          {
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems"
+          },
+          {
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones"
+          }
+        ],
+        [
+          {
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems"
+          },
+          {
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones"
+          }
+        ],
+        [
+          {
+            "Organism": "Salmonella Typhi",
+            "OrganismId": 11,
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems",
+            "CountryId": 139,
+            "CountryName": "Democratic Republic of the Congo",
+            "ISO3": "COD",
+            "code": "",
+            "year": 2021,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 172,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 2
+          },
+          {
+            "Organism": "Salmonella Typhi",
+            "OrganismId": 11,
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems",
+            "CountryId": 139,
+            "CountryName": "Democratic Republic of the Congo",
+            "ISO3": "COD",
+            "code": "",
+            "year": 2022,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "NOTE: less than 30 isolates tested",
+            "IsolatesTested": 30,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 11
+          },
+          {
+            "Organism": "Salmonella Typhi",
+            "OrganismId": 11,
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems",
+            "CountryId": 139,
+            "CountryName": "Democratic Republic of the Congo",
+            "ISO3": "COD",
+            "code": "",
+            "year": 2023,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 312,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 1
+          },
+          {
+            "Organism": "Salmonella Typhi",
+            "OrganismId": 11,
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)",
+            "CountryId": 139,
+            "CountryName": "Democratic Republic of the Congo",
+            "ISO3": "COD",
+            "code": "",
+            "year": 2021,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 370,
+            "value": 69,
+            "CILow": 64,
+            "CIHigh": 73
+          },
+          {
+            "Organism": "Salmonella Typhi",
+            "OrganismId": 11,
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)",
+            "CountryId": 139,
+            "CountryName": "Democratic Republic of the Congo",
+            "ISO3": "COD",
+            "code": "",
+            "year": 2022,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 752,
+            "value": 82,
+            "CILow": 79,
+            "CIHigh": 85
+          },
+          {
+            "Organism": "Salmonella Typhi",
+            "OrganismId": 11,
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)",
+            "CountryId": 139,
+            "CountryName": "Democratic Republic of the Congo",
+            "ISO3": "COD",
+            "code": "",
+            "year": 2023,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 1164,
+            "value": 85,
+            "CILow": 83,
+            "CIHigh": 87
+          },
+          {
+            "Organism": "Salmonella Typhi",
+            "OrganismId": 11,
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "CountryId": 139,
+            "CountryName": "Democratic Republic of the Congo",
+            "ISO3": "COD",
+            "code": "",
+            "year": 2022,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 417,
+            "value": 80,
+            "CILow": 76,
+            "CIHigh": 84
+          },
+          {
+            "Organism": "Salmonella Typhi",
+            "OrganismId": 11,
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "CountryId": 139,
+            "CountryName": "Democratic Republic of the Congo",
+            "ISO3": "COD",
+            "code": "",
+            "year": 2023,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 378,
+            "value": 78,
+            "CILow": 74,
+            "CIHigh": 82
+          }
+        ],
+        {
+          "minyear": 2021,
+          "maxyear": 2023
+        }
+      ]
+    }
+  ]
+}

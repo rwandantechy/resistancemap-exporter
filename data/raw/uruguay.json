@@ -1,0 +1,1224 @@
+{
+  "country": "Uruguay",
+  "region": "Latin America & Caribbean",
+  "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=96&country=Uruguay",
+  "captured_at": "2026-11-19T06:50:39.898338+00:00",
+  "responses": [
+    {
+      "url": "https://resistancemap.onehealthtrust.org/getData.php",
+      "method": "POST",
+      "post_data": "abxId%5B%5D=33&abxId%5B%5D=34&abxId%5B%5D=7&abxId%5B%5D=10&abxId%5B%5D=40&countryId=96&charttype=trend&page=use&units=DDD&defaultValues=true&countryPage=true&accessvariable=e0RnPkREc!TQbPD*EYRkT3VZ*",
+      "payload": [
+        {
+          "country": "Uruguay"
+        },
+        [
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 1336.51825,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2000,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 1607.26302,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2001,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 1378.03654,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2002,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 1667.43312,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2003,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 1840.11416,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2004,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 2370.67259,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2005,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 2980.25976,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2006,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 3052.91116,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2007,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 2900.97416,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2008,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 3231.30123,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2009,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 3433.54159,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2010,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 3293.29333,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2011,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 3626.25503,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2012,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 3922.89103,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2013,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 4225.94403,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2014,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 4361.56177,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2015,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 3036,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2016,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 3093.857,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2017,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 2871.12,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2018,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 2954.649,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2019,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 1949.621,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2020,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 2165.888,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2021,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 3381.096,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2022,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 3335.193,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2023,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 402.84905,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2000,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 416.00205,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2001,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 413.25043,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2002,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 330.03517,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2003,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 354.11668,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2004,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 396.09659,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2005,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 424.18565,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2006,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 434.24749,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2007,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 433.56723,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2008,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 480.45788,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2009,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 530.98076,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2010,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 574.6209,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2011,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 548.39077,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2012,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 561.29607,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2013,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 661.9846,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2014,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 782.32107,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2015,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 844.546,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2016,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 980.3336,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2017,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 875.8252,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2018,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 1089.795,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2019,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 876.211,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2020,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 887.5919,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2021,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 1017.741,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2022,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 1088.62,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2023,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 187.95456,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2000,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 276.17555,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2001,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 275.01324,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2002,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 308.68769,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2003,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 321.2567,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2004,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 362.53321,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2005,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 439.5478,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2006,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 486.48899,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2007,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 490.38604,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2008,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 594.28441,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2009,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 580.12995,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2010,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 550.723,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2011,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 561.53945,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2012,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 548.47176,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2013,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 575.50174,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2014,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 551.32718,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2015,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 560.2189,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2016,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 534.3566,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2017,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 488.5472,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2018,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 457.3916,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2019,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 414.239,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2020,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 430.4002,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2021,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 453.8483,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2022,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 465.4578,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2023,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 347.40404,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2000,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 412.25649,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2001,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 288.79907,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2002,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 318.45963,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2003,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 266.35125,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2004,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 367.54452,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2005,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 391.96508,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2006,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 509.15304,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2007,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 503.68379,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2008,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 539.65224,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2009,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 593.12161,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2010,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 571.25116,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2011,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 614.81652,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2012,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 585.54032,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2013,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 640.04328,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2014,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 715.49145,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2015,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 866.2554,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2016,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 844.2417,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2017,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 781.8756,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2018,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 836.7529,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2019,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 521.5448,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2020,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 528.7572,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2021,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 856.178,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2022,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 880.3602,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2023,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 121.74147,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2000,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 128.10609,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2001,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 94.08758,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2002,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 98.71972,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2003,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 154.59283,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2004,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 230.80428,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2005,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 200.28281,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2006,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 221.4715,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2007,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 204.59275,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2008,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 200.09928,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2009,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 203.75667,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2010,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 218.23975,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2011,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 168.18685,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2012,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 138.94729,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2013,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 148.59436,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2014,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 150.96494,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2015,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 188.6684,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2016,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 202.0868,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2017,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 183.0786,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2018,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 191.1105,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2019,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 202.9605,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2020,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 181.2903,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2021,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 178.4042,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2022,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 172.7726,
+            "CountryName": "Uruguay",
+            "ISO3": "URY",
+            "code": "UY",
+            "Year": 2023,
+            "Sector": "Retail"
+          }
+        ],
+        {
+          "minyear": 2000,
+          "maxyear": 2023
+        }
+      ]
+    }
+  ]
+}

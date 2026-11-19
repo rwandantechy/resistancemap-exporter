@@ -1,0 +1,289 @@
+{
+  "country": "Cameroon",
+  "region": "Sub-Saharan Africa",
+  "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=136&country=Cameroon",
+  "captured_at": "2026-11-19T06:55:06.326149+00:00",
+  "responses": [
+    {
+      "url": "https://resistancemap.onehealthtrust.org/getData.php",
+      "method": "POST",
+      "post_data": "orgId=3&abxId%5B%5D=6&abxId%5B%5D=5&abxId%5B%5D=7&abxId%5B%5D=16&abxId%5B%5D=2&countryId=136&charttype=trend&page=resistance&resetabxs=false&defaultValues=true&countryPage=true&accessvariable=gZf2plm%7Bqd0LmZIwlhIrw5nEg",
+      "payload": [
+        {
+          "title": "Cameroon"
+        },
+        [
+          {
+            "AntimicrobialId": 2,
+            "Antimicrobial": "Aminopenicillins"
+          },
+          {
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems"
+          },
+          {
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones"
+          },
+          {
+            "AntimicrobialId": 16,
+            "Antimicrobial": "Trimethoprim-sulfamethoxazole"
+          }
+        ],
+        [
+          {
+            "AntimicrobialId": 2,
+            "Antimicrobial": "Aminopenicillins"
+          },
+          {
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems"
+          },
+          {
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones"
+          },
+          {
+            "AntimicrobialId": 16,
+            "Antimicrobial": "Trimethoprim-sulfamethoxazole"
+          }
+        ],
+        [
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 2,
+            "Antimicrobial": "Aminopenicillins",
+            "CountryId": 136,
+            "CountryName": "Cameroon",
+            "ISO3": "CMR",
+            "code": "",
+            "year": 2021,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 118,
+            "value": 94,
+            "CILow": 88,
+            "CIHigh": 97
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems",
+            "CountryId": 136,
+            "CountryName": "Cameroon",
+            "ISO3": "CMR",
+            "code": "",
+            "year": 2021,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 264,
+            "value": 6,
+            "CILow": 4,
+            "CIHigh": 10
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems",
+            "CountryId": 136,
+            "CountryName": "Cameroon",
+            "ISO3": "CMR",
+            "code": "",
+            "year": 2022,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 719,
+            "value": 10,
+            "CILow": 8,
+            "CIHigh": 12
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems",
+            "CountryId": 136,
+            "CountryName": "Cameroon",
+            "ISO3": "CMR",
+            "code": "",
+            "year": 2023,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 1045,
+            "value": 10,
+            "CILow": 8,
+            "CIHigh": 12
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)",
+            "CountryId": 136,
+            "CountryName": "Cameroon",
+            "ISO3": "CMR",
+            "code": "",
+            "year": 2021,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 509,
+            "value": 60,
+            "CILow": 56,
+            "CIHigh": 64
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)",
+            "CountryId": 136,
+            "CountryName": "Cameroon",
+            "ISO3": "CMR",
+            "code": "",
+            "year": 2022,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 1142,
+            "value": 58,
+            "CILow": 55,
+            "CIHigh": 61
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)",
+            "CountryId": 136,
+            "CountryName": "Cameroon",
+            "ISO3": "CMR",
+            "code": "",
+            "year": 2023,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 1725,
+            "value": 58,
+            "CILow": 56,
+            "CIHigh": 60
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "CountryId": 136,
+            "CountryName": "Cameroon",
+            "ISO3": "CMR",
+            "code": "",
+            "year": 2021,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 302,
+            "value": 51,
+            "CILow": 45,
+            "CIHigh": 57
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "CountryId": 136,
+            "CountryName": "Cameroon",
+            "ISO3": "CMR",
+            "code": "",
+            "year": 2022,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 693,
+            "value": 55,
+            "CILow": 51,
+            "CIHigh": 59
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "CountryId": 136,
+            "CountryName": "Cameroon",
+            "ISO3": "CMR",
+            "code": "",
+            "year": 2023,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 910,
+            "value": 57,
+            "CILow": 54,
+            "CIHigh": 60
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 16,
+            "Antimicrobial": "Trimethoprim-sulfamethoxazole",
+            "CountryId": 136,
+            "CountryName": "Cameroon",
+            "ISO3": "CMR",
+            "code": "",
+            "year": 2021,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 71,
+            "value": 80,
+            "CILow": 69,
+            "CIHigh": 88
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 16,
+            "Antimicrobial": "Trimethoprim-sulfamethoxazole",
+            "CountryId": 136,
+            "CountryName": "Cameroon",
+            "ISO3": "CMR",
+            "code": "",
+            "year": 2022,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 274,
+            "value": 88,
+            "CILow": 84,
+            "CIHigh": 91
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 16,
+            "Antimicrobial": "Trimethoprim-sulfamethoxazole",
+            "CountryId": 136,
+            "CountryName": "Cameroon",
+            "ISO3": "CMR",
+            "code": "",
+            "year": 2023,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 506,
+            "value": 85,
+            "CILow": 82,
+            "CIHigh": 88
+          }
+        ],
+        {
+          "minyear": 2021,
+          "maxyear": 2023
+        }
+      ]
+    }
+  ]
+}

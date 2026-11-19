@@ -1,0 +1,53 @@
+{
+  "country": "Armenia",
+  "region": "Europe & Central Asia",
+  "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=132&country=Armenia",
+  "captured_at": "2026-11-19T06:40:45.390165+00:00",
+  "responses": [
+    {
+      "url": "https://resistancemap.onehealthtrust.org/getData.php",
+      "method": "POST",
+      "post_data": "orgId=5&abxId%5B%5D=8&countryId=132&charttype=trend&page=resistance&resetabxs=false&defaultValues=true&countryPage=true&accessvariable=%7BgHLw8qQdWDP5J7e7UArsy5vZ",
+      "payload": [
+        {
+          "title": "Armenia"
+        },
+        [
+          {
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)"
+          }
+        ],
+        [
+          {
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)"
+          }
+        ],
+        [
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)",
+            "CountryId": 132,
+            "CountryName": "Armenia",
+            "ISO3": "ARM",
+            "code": "",
+            "year": 2021,
+            "Source": "Central Asian and European Surveillance of Antimicrobial Resistance (CAESAR)",
+            "Notes": "NOTE: # isolates tested not reported (>30)",
+            "IsolatesTested": ">30",
+            "value": 29,
+            "CILow": "*",
+            "CIHigh": "*"
+          }
+        ],
+        {
+          "minyear": 2021,
+          "maxyear": 2021
+        }
+      ]
+    }
+  ]
+}

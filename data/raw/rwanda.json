@@ -1,0 +1,128 @@
+{
+  "country": "Rwanda",
+  "region": "Sub-Saharan Africa",
+  "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=147&country=Rwanda",
+  "captured_at": "2026-11-19T06:57:19.936047+00:00",
+  "responses": [
+    {
+      "url": "https://resistancemap.onehealthtrust.org/getData.php",
+      "method": "POST",
+      "post_data": "orgId=4&abxId%5B%5D=6&abxId%5B%5D=5&abxId%5B%5D=7&abxId%5B%5D=16&countryId=147&charttype=trend&page=resistance&resetabxs=false&defaultValues=true&countryPage=true&accessvariable=JSrDuG%7DQhNkKM%40jhyAcOEf!nc",
+      "payload": [
+        {
+          "title": "Rwanda"
+        },
+        [
+          {
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems"
+          },
+          {
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones"
+          },
+          {
+            "AntimicrobialId": 16,
+            "Antimicrobial": "Trimethoprim-sulfamethoxazole"
+          }
+        ],
+        [
+          {
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems"
+          },
+          {
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones"
+          },
+          {
+            "AntimicrobialId": 16,
+            "Antimicrobial": "Trimethoprim-sulfamethoxazole"
+          }
+        ],
+        [
+          {
+            "Organism": "Klebsiella pneumoniae",
+            "OrganismId": 4,
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems",
+            "CountryId": 147,
+            "CountryName": "Rwanda",
+            "ISO3": "RWA",
+            "code": "",
+            "year": 2022,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 66,
+            "value": 17,
+            "CILow": 10,
+            "CIHigh": 28
+          },
+          {
+            "Organism": "Klebsiella pneumoniae",
+            "OrganismId": 4,
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)",
+            "CountryId": 147,
+            "CountryName": "Rwanda",
+            "ISO3": "RWA",
+            "code": "",
+            "year": 2022,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 85,
+            "value": 89,
+            "CILow": 81,
+            "CIHigh": 94
+          },
+          {
+            "Organism": "Klebsiella pneumoniae",
+            "OrganismId": 4,
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "CountryId": 147,
+            "CountryName": "Rwanda",
+            "ISO3": "RWA",
+            "code": "",
+            "year": 2022,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 45,
+            "value": 36,
+            "CILow": 24,
+            "CIHigh": 51
+          },
+          {
+            "Organism": "Klebsiella pneumoniae",
+            "OrganismId": 4,
+            "AntimicrobialId": 16,
+            "Antimicrobial": "Trimethoprim-sulfamethoxazole",
+            "CountryId": 147,
+            "CountryName": "Rwanda",
+            "ISO3": "RWA",
+            "code": "",
+            "year": 2022,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "NOTE: less than 30 isolates tested",
+            "IsolatesTested": 30,
+            "value": 62,
+            "CILow": 44,
+            "CIHigh": 77
+          }
+        ],
+        {
+          "minyear": 2022,
+          "maxyear": 2022
+        }
+      ]
+    }
+  ]
+}

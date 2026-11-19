@@ -1,0 +1,1224 @@
+{
+  "country": "Puerto Rico",
+  "region": "Latin America & Caribbean",
+  "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=88&country=Puerto+Rico+",
+  "captured_at": "2026-11-19T06:50:25.025864+00:00",
+  "responses": [
+    {
+      "url": "https://resistancemap.onehealthtrust.org/getData.php",
+      "method": "POST",
+      "post_data": "abxId%5B%5D=33&abxId%5B%5D=34&abxId%5B%5D=7&abxId%5B%5D=10&abxId%5B%5D=40&countryId=88&charttype=trend&page=use&units=DDD&defaultValues=true&countryPage=true&accessvariable=4hhL!ur5OWoqBL%7DpbHweHvunE",
+      "payload": [
+        {
+          "country": "Puerto Rico "
+        },
+        [
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 2118.34203,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2000,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 3241.47555,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2001,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 3233.99263,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2002,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 3475.23601,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2003,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 3380.42049,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2004,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 2933.91635,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2005,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 3250.98999,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2006,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 3173.40659,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2007,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 3534.37158,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2008,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 3783.4298,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2009,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 3563.33397,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2010,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 3838.74691,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2011,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 4123.19953,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2012,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 3905.37765,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2013,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 3774.36682,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2014,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 3698.83005,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2015,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 2645.77,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2016,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 2533.924,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2017,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 2512.279,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2018,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 2170.489,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2019,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 1817.583,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2020,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 2038.309,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2021,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 2018.273,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2022,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 2299.2,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2023,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 1256.61143,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2000,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 1640.90853,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2001,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 1349.34837,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2002,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 1215.94446,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2003,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 1203.16902,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2004,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 1140.79641,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2005,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 1167.32531,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2006,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 946.39393,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2007,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 994.14914,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2008,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 1015.35241,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2009,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 986.93063,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2010,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 1030.51361,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2011,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 1038.56872,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2012,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 1018.90443,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2013,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 919.19146,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2014,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 881.21344,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2015,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 814.6557,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2016,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 786.1286,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2017,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 797.434,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2018,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 738.4725,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2019,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 560.7776,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2020,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 569.8919,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2021,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 593.5826,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2022,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 658.6344,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2023,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 572.11532,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2000,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 838.90478,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2001,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 810.38806,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2002,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 892.4928,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2003,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 911.93414,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2004,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 1153.65147,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2005,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 1396.4922,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2006,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 1592.63057,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2007,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 1686.58361,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2008,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 1803.70275,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2009,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 1709.22311,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2010,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 1656.7437,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2011,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 1503.27266,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2012,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 1558.49732,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2013,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 1566.31312,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2014,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 1395.9382,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2015,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 1334.696,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2016,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 1245.991,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2017,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 1248.576,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2018,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 1279.797,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2019,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 1249.714,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2020,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 1241.536,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2021,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 1161.149,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2022,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 1102.263,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2023,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 604.71795,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2000,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 853.12884,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2001,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 805.08616,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2002,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 885.28826,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2003,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 927.8677,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2004,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 1047.03016,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2005,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 1007.91795,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2006,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 981.51709,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2007,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 1087.13931,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2008,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 1116.43844,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2009,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 1100.94146,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2010,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 1138.88133,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2011,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 1152.56032,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2012,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 1143.52927,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2013,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 1180.78494,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2014,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 1196.38026,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2015,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 1647.199,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2016,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 1574.646,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2017,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 1640.486,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2018,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 1960.729,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2019,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 1610.247,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2020,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 1474.698,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2021,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 1977.643,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2022,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 1704.122,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2023,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 174.33638,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2000,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 291.99175,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2001,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 273.07071,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2002,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 283.38953,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2003,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 278.66491,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2004,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 384.11167,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2005,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 367.13615,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2006,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 286.51112,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2007,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 380.51824,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2008,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 458.39139,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2009,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 478.11919,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2010,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 506.90835,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2011,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 540.90928,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2012,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 513.5004,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2013,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 493.86109,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2014,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 496.1786,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2015,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 449.5187,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2016,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 402.1886,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2017,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 300.2616,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2018,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 319.1325,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2019,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 306.5198,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2020,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 320.5383,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2021,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 321.794,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2022,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 285.7191,
+            "CountryName": "Puerto Rico ",
+            "ISO3": "PRI",
+            "code": "PR",
+            "Year": 2023,
+            "Sector": "Hospital/Retail"
+          }
+        ],
+        {
+          "minyear": 2000,
+          "maxyear": 2023
+        }
+      ]
+    }
+  ]
+}

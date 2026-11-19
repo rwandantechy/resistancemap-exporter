@@ -1,0 +1,145 @@
+{
+  "country": "Somalia",
+  "region": "Middle East & North Africa",
+  "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=148&country=Somalia",
+  "captured_at": "2026-11-19T06:53:05.796087+00:00",
+  "responses": [
+    {
+      "url": "https://resistancemap.onehealthtrust.org/getData.php",
+      "method": "POST",
+      "post_data": "orgId=3&abxId%5B%5D=6&abxId%5B%5D=5&abxId%5B%5D=7&abxId%5B%5D=2&countryId=148&charttype=trend&page=resistance&resetabxs=false&defaultValues=true&countryPage=true&accessvariable=jk3vyekleyVzJ6Bo!xEjsEK3Z",
+      "payload": [
+        {
+          "title": "Somalia"
+        },
+        [
+          {
+            "AntimicrobialId": 2,
+            "Antimicrobial": "Aminopenicillins"
+          },
+          {
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems"
+          },
+          {
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones"
+          }
+        ],
+        [
+          {
+            "AntimicrobialId": 2,
+            "Antimicrobial": "Aminopenicillins"
+          },
+          {
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems"
+          },
+          {
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones"
+          }
+        ],
+        [
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 2,
+            "Antimicrobial": "Aminopenicillins",
+            "CountryId": 148,
+            "CountryName": "Somalia",
+            "ISO3": "SOM",
+            "code": "",
+            "year": 2020,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "NOTE: less than 30 isolates tested",
+            "IsolatesTested": 30,
+            "value": 96,
+            "CILow": 82,
+            "CIHigh": 99
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems",
+            "CountryId": 148,
+            "CountryName": "Somalia",
+            "ISO3": "SOM",
+            "code": "",
+            "year": 2020,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "NOTE: less than 30 isolates tested",
+            "IsolatesTested": 30,
+            "value": 12,
+            "CILow": 5,
+            "CIHigh": 28
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)",
+            "CountryId": 148,
+            "CountryName": "Somalia",
+            "ISO3": "SOM",
+            "code": "",
+            "year": 2021,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 120,
+            "value": 67,
+            "CILow": 58,
+            "CIHigh": 75
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "CountryId": 148,
+            "CountryName": "Somalia",
+            "ISO3": "SOM",
+            "code": "",
+            "year": 2020,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "NOTE: less than 30 isolates tested",
+            "IsolatesTested": 30,
+            "value": 56,
+            "CILow": 39,
+            "CIHigh": 72
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "CountryId": 148,
+            "CountryName": "Somalia",
+            "ISO3": "SOM",
+            "code": "",
+            "year": 2021,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 68,
+            "value": 35,
+            "CILow": 25,
+            "CIHigh": 47
+          }
+        ],
+        {
+          "minyear": 2020,
+          "maxyear": 2021
+        }
+      ]
+    }
+  ]
+}

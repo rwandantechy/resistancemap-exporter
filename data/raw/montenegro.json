@@ -1,0 +1,323 @@
+{
+  "country": "Montenegro",
+  "region": "Europe & Central Asia",
+  "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=110&country=Montenegro",
+  "captured_at": "2026-11-19T06:44:13.810141+00:00",
+  "responses": [
+    {
+      "url": "https://resistancemap.onehealthtrust.org/getData.php",
+      "method": "POST",
+      "post_data": "orgId=5&abxId%5B%5D=7&abxId%5B%5D=8&abxId%5B%5D=3&abxId%5B%5D=9&abxId%5B%5D=17&countryId=110&charttype=trend&page=resistance&resetabxs=false&defaultValues=true&countryPage=true&accessvariable=UpF9v7luHACihYuBBNRHES2Zt",
+      "payload": [
+        {
+          "title": "Montenegro"
+        },
+        [
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones"
+          },
+          {
+            "AntimicrobialId": 17,
+            "Antimicrobial": "Linezolid"
+          },
+          {
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)"
+          },
+          {
+            "AntimicrobialId": 9,
+            "Antimicrobial": "Rifampicin"
+          },
+          {
+            "AntimicrobialId": 3,
+            "Antimicrobial": "Vancomycin"
+          }
+        ],
+        [
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones"
+          },
+          {
+            "AntimicrobialId": 17,
+            "Antimicrobial": "Linezolid"
+          },
+          {
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)"
+          },
+          {
+            "AntimicrobialId": 9,
+            "Antimicrobial": "Rifampicin"
+          },
+          {
+            "AntimicrobialId": 3,
+            "Antimicrobial": "Vancomycin"
+          }
+        ],
+        [
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "CountryId": 110,
+            "CountryName": "Montenegro",
+            "ISO3": "MNE",
+            "code": "",
+            "year": 2016,
+            "Source": "Central Asian and Eastern European Surveillance of Antimicrobial Resistance (CAESAR)",
+            "Notes": "",
+            "IsolatesTested": 45,
+            "value": 20,
+            "CILow": 11,
+            "CIHigh": 34
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 17,
+            "Antimicrobial": "Linezolid",
+            "CountryId": 110,
+            "CountryName": "Montenegro",
+            "ISO3": "MNE",
+            "code": "",
+            "year": 2016,
+            "Source": "Central Asian and Eastern European Surveillance of Antimicrobial Resistance (CAESAR)",
+            "Notes": "",
+            "IsolatesTested": 38,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 9
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 17,
+            "Antimicrobial": "Linezolid",
+            "CountryId": 110,
+            "CountryName": "Montenegro",
+            "ISO3": "MNE",
+            "code": "",
+            "year": 2018,
+            "Source": "Central Asian and Eastern European Surveillance of Antimicrobial Resistance (CAESAR)",
+            "Notes": "",
+            "IsolatesTested": 31,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 11
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 17,
+            "Antimicrobial": "Linezolid",
+            "CountryId": 110,
+            "CountryName": "Montenegro",
+            "ISO3": "MNE",
+            "code": "",
+            "year": 2019,
+            "Source": "Central Asian and Eastern European Surveillance of Antimicrobial Resistance (CAESAR)",
+            "Notes": "",
+            "IsolatesTested": 31,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 11
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)",
+            "CountryId": 110,
+            "CountryName": "Montenegro",
+            "ISO3": "MNE",
+            "code": "",
+            "year": 2016,
+            "Source": "Central Asian and Eastern European Surveillance of Antimicrobial Resistance (CAESAR)",
+            "Notes": "",
+            "IsolatesTested": 47,
+            "value": 34,
+            "CILow": 22,
+            "CIHigh": 48
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)",
+            "CountryId": 110,
+            "CountryName": "Montenegro",
+            "ISO3": "MNE",
+            "code": "",
+            "year": 2017,
+            "Source": "Central Asian and European Surveillance of Antimicrobial Resistance (CAESAR)",
+            "Notes": "",
+            "IsolatesTested": 35,
+            "value": 23,
+            "CILow": 12,
+            "CIHigh": 39
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)",
+            "CountryId": 110,
+            "CountryName": "Montenegro",
+            "ISO3": "MNE",
+            "code": "",
+            "year": 2018,
+            "Source": "Central Asian and Eastern European Surveillance of Antimicrobial Resistance (CAESAR)",
+            "Notes": "",
+            "IsolatesTested": 41,
+            "value": 29,
+            "CILow": 17,
+            "CIHigh": 44
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)",
+            "CountryId": 110,
+            "CountryName": "Montenegro",
+            "ISO3": "MNE",
+            "code": "",
+            "year": 2019,
+            "Source": "Central Asian and Eastern European Surveillance of Antimicrobial Resistance (CAESAR)",
+            "Notes": "",
+            "IsolatesTested": 43,
+            "value": 26,
+            "CILow": 15,
+            "CIHigh": 41
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)",
+            "CountryId": 110,
+            "CountryName": "Montenegro",
+            "ISO3": "MNE",
+            "code": "",
+            "year": 2020,
+            "Source": "Central Asian and European Surveillance of Antimicrobial Resistance (CAESAR)",
+            "Notes": "NOTE: # isolates tested not reported (>30)",
+            "IsolatesTested": ">30",
+            "value": 10,
+            "CILow": "*",
+            "CIHigh": "*"
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)",
+            "CountryId": 110,
+            "CountryName": "Montenegro",
+            "ISO3": "MNE",
+            "code": "",
+            "year": 2021,
+            "Source": "Central Asian and European Surveillance of Antimicrobial Resistance (CAESAR)",
+            "Notes": "NOTE: # isolates tested not reported (>30)",
+            "IsolatesTested": ">30",
+            "value": 21,
+            "CILow": "*",
+            "CIHigh": "*"
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 9,
+            "Antimicrobial": "Rifampicin",
+            "CountryId": 110,
+            "CountryName": "Montenegro",
+            "ISO3": "MNE",
+            "code": "",
+            "year": 2016,
+            "Source": "Central Asian and Eastern European Surveillance of Antimicrobial Resistance (CAESAR)",
+            "Notes": "",
+            "IsolatesTested": 38,
+            "value": 24,
+            "CILow": 13,
+            "CIHigh": 40
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 9,
+            "Antimicrobial": "Rifampicin",
+            "CountryId": 110,
+            "CountryName": "Montenegro",
+            "ISO3": "MNE",
+            "code": "",
+            "year": 2019,
+            "Source": "Central Asian and Eastern European Surveillance of Antimicrobial Resistance (CAESAR)",
+            "Notes": "",
+            "IsolatesTested": 32,
+            "value": 3,
+            "CILow": 1,
+            "CIHigh": 16
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 3,
+            "Antimicrobial": "Vancomycin",
+            "CountryId": 110,
+            "CountryName": "Montenegro",
+            "ISO3": "MNE",
+            "code": "",
+            "year": 2016,
+            "Source": "Central Asian and Eastern European Surveillance of Antimicrobial Resistance (CAESAR)",
+            "Notes": "",
+            "IsolatesTested": 40,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 9
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 3,
+            "Antimicrobial": "Vancomycin",
+            "CountryId": 110,
+            "CountryName": "Montenegro",
+            "ISO3": "MNE",
+            "code": "",
+            "year": 2018,
+            "Source": "Central Asian and Eastern European Surveillance of Antimicrobial Resistance (CAESAR)",
+            "Notes": "",
+            "IsolatesTested": 37,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 9
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 3,
+            "Antimicrobial": "Vancomycin",
+            "CountryId": 110,
+            "CountryName": "Montenegro",
+            "ISO3": "MNE",
+            "code": "",
+            "year": 2019,
+            "Source": "Central Asian and Eastern European Surveillance of Antimicrobial Resistance (CAESAR)",
+            "Notes": "",
+            "IsolatesTested": 41,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 9
+          }
+        ],
+        {
+          "minyear": 2016,
+          "maxyear": 2021
+        }
+      ]
+    }
+  ]
+}

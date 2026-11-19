@@ -1,0 +1,1224 @@
+{
+  "country": "Francophone West Africa",
+  "region": "Sub-Saharan Africa",
+  "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=75&country=Francophone+West+Africa",
+  "captured_at": "2026-11-19T06:28:28.665859+00:00",
+  "responses": [
+    {
+      "url": "https://resistancemap.onehealthtrust.org/getData.php",
+      "method": "POST",
+      "post_data": "abxId%5B%5D=33&abxId%5B%5D=34&abxId%5B%5D=7&abxId%5B%5D=10&abxId%5B%5D=40&countryId=75&charttype=trend&page=use&units=DDD&defaultValues=true&countryPage=true&accessvariable=%40he%7BrHBUOe0iy8frI0L%40WLts1",
+      "payload": [
+        {
+          "country": "Francophone West Africa"
+        },
+        [
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 270.29631,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2000,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 286.62054,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2001,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 344.68801,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2002,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 380.57134,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2003,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 399.42382,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2004,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 399.53822,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2005,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 429.12052,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2006,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 474.17946,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2007,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 514.58889,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2008,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 547.50816,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2009,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 634.68781,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2010,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 781.71501,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2011,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 896.4203,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2012,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 1035.11568,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2013,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 1194.06215,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2014,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 1184.87035,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2015,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 916.4451,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2016,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 926.0481,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2017,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 897.9355,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2018,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 919.5557,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2019,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 938.2538,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2020,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 1063.828,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2021,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 1117.538,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2022,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 1109.607,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2023,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 20.75904,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2000,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 24.93304,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2001,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 27.57332,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2002,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 26.41436,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2003,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 29.16171,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2004,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 21.77136,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2005,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 24.24012,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2006,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 29.0212,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2007,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 34.15014,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2008,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 37.36232,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2009,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 38.2421,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2010,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 42.58352,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2011,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 47.74266,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2012,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 57.25676,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2013,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 69.78687,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2014,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 79.17186,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2015,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 99.89529,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2016,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 108.766,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2017,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 123.6825,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2018,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 133.8973,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2019,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 136.7796,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2020,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 178.7317,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2021,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 195.2618,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2022,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 210.2847,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2023,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 23.838,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2000,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 25.33701,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2001,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 28.58744,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2002,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 30.60548,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2003,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 40.7626,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2004,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 58.07412,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2005,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 72.18162,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2006,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 82.65941,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2007,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 91.99163,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2008,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 98.76302,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2009,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 109.16326,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2010,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 122.82895,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2011,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 150.33824,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2012,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 169.26662,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2013,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 211.46457,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2014,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 210.07025,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2015,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 348.8355,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2016,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 364.446,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2017,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 587.6097,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2018,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 362.3429,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2019,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 405.9204,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2020,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 440.7324,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2021,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 293.9556,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2022,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 1302.574,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2023,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 41.2024,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2000,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 45.78508,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2001,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 55.63043,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2002,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 52.74387,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2003,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 55.65767,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2004,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 55.37428,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2005,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 56.08179,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2006,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 55.85049,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2007,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 58.92098,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2008,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 70.09577,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2009,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 85.29815,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2010,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 95.47363,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2011,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 115.38094,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2012,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 132.49412,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2013,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 148.21384,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2014,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 143.09421,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2015,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 149.7352,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2016,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 146.3383,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2017,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 163.3045,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2018,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 178.6271,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2019,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 179.0005,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2020,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 243.7556,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2021,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 241.8396,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2022,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 239.8843,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2023,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 95.43604,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2000,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 92.17962,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2001,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 91.50498,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2002,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 87.85788,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2003,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 105.74375,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2004,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 271.34801,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2005,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 299.78036,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2006,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 302.15219,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2007,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 263.61034,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2008,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 254.79725,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2009,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 254.25757,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2010,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 260.72313,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2011,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 254.86631,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2012,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 257.17637,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2013,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 250.83737,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2014,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 232.69275,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2015,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 258.7753,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2016,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 193.5103,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2017,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 163.031,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2018,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 140.0789,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2019,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 152.1456,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2020,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 170.9927,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2021,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 184.3726,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2022,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 185.395,
+            "CountryName": "Francophone West Africa",
+            "ISO3": "FWA",
+            "code": "FW",
+            "Year": 2023,
+            "Sector": "Retail"
+          }
+        ],
+        {
+          "minyear": 2000,
+          "maxyear": 2023
+        }
+      ]
+    }
+  ]
+}

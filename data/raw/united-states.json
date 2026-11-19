@@ -1,0 +1,2439 @@
+{
+  "country": "United States",
+  "region": "North America",
+  "source_url": "https://resistancemap.onehealthtrust.org/CountryPageSub.php?countryId=38&country=United+States",
+  "captured_at": "2026-11-19T06:28:23.230181+00:00",
+  "responses": [
+    {
+      "url": "https://resistancemap.onehealthtrust.org/getSubData.php",
+      "method": "POST",
+      "post_data": "orgId=5&abxId=8&charttype=map&page=resistance",
+      "payload": [
+        {
+          "abxId": 8,
+          "abxName": "Oxacillin (MRSA)"
+        },
+        [
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones"
+          },
+          {
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides"
+          },
+          {
+            "AntimicrobialId": 9,
+            "Antimicrobial": "Rifampicin"
+          },
+          {
+            "AntimicrobialId": 17,
+            "Antimicrobial": "Linezolid"
+          },
+          {
+            "AntimicrobialId": 21,
+            "Antimicrobial": "Daptomycin"
+          },
+          {
+            "AntimicrobialId": 3,
+            "Antimicrobial": "Vancomycin"
+          }
+        ],
+        [
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2016,
+            "Source": "Becton Dickinson",
+            "IsolatesTested": 3533,
+            "value": 44,
+            "CILow": 42,
+            "CIHigh": 46
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)",
+            "RegionId": 2,
+            "Region": "East South Central",
+            "year": 2016,
+            "Source": "Becton Dickinson",
+            "IsolatesTested": 1762,
+            "value": 53,
+            "CILow": 51,
+            "CIHigh": 55
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)",
+            "RegionId": 3,
+            "Region": "Mid Atlantic",
+            "year": 2016,
+            "Source": "Becton Dickinson",
+            "IsolatesTested": 1811,
+            "value": 42,
+            "CILow": 40,
+            "CIHigh": 44
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)",
+            "RegionId": 4,
+            "Region": "Mountain",
+            "year": 2016,
+            "Source": "Becton Dickinson",
+            "IsolatesTested": 579,
+            "value": 31,
+            "CILow": 27,
+            "CIHigh": 35
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)",
+            "RegionId": 5,
+            "Region": "New England",
+            "year": 2016,
+            "Source": "Becton Dickinson",
+            "IsolatesTested": 293,
+            "value": 35,
+            "CILow": 30,
+            "CIHigh": 41
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)",
+            "RegionId": 6,
+            "Region": "Pacific",
+            "year": 2016,
+            "Source": "Becton Dickinson",
+            "IsolatesTested": 1625,
+            "value": 41,
+            "CILow": 39,
+            "CIHigh": 43
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)",
+            "RegionId": 7,
+            "Region": "South Atlantic",
+            "year": 2016,
+            "Source": "Becton Dickinson",
+            "IsolatesTested": 2318,
+            "value": 48,
+            "CILow": 46,
+            "CIHigh": 50
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)",
+            "RegionId": 8,
+            "Region": "West North Central",
+            "year": 2016,
+            "Source": "Becton Dickinson",
+            "IsolatesTested": 225,
+            "value": 34,
+            "CILow": 28,
+            "CIHigh": 40
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)",
+            "RegionId": 9,
+            "Region": "West South Central",
+            "year": 2016,
+            "Source": "Becton Dickinson",
+            "IsolatesTested": 3016,
+            "value": 47,
+            "CILow": 45,
+            "CIHigh": 49
+          }
+        ]
+      ]
+    },
+    {
+      "url": "https://resistancemap.onehealthtrust.org/getSubData.php",
+      "method": "POST",
+      "post_data": "orgId=5&regionId=1&charttype=trend&page=resistance&resetabxs=true",
+      "payload": [
+        {
+          "title": "East North Central"
+        },
+        [
+          {
+            "AntimicrobialId": 21,
+            "Antimicrobial": "Daptomycin"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones"
+          },
+          {
+            "AntimicrobialId": 17,
+            "Antimicrobial": "Linezolid"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides"
+          },
+          {
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)"
+          },
+          {
+            "AntimicrobialId": 9,
+            "Antimicrobial": "Rifampicin"
+          },
+          {
+            "AntimicrobialId": 3,
+            "Antimicrobial": "Vancomycin"
+          }
+        ],
+        [
+          {
+            "AntimicrobialId": 21,
+            "Antimicrobial": "Daptomycin"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones"
+          },
+          {
+            "AntimicrobialId": 17,
+            "Antimicrobial": "Linezolid"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides"
+          },
+          {
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)"
+          },
+          {
+            "AntimicrobialId": 9,
+            "Antimicrobial": "Rifampicin"
+          },
+          {
+            "AntimicrobialId": 3,
+            "Antimicrobial": "Vancomycin"
+          }
+        ],
+        [
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 21,
+            "Antimicrobial": "Daptomycin",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2006,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 35,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 10
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 21,
+            "Antimicrobial": "Daptomycin",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2007,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 90,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 4
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 21,
+            "Antimicrobial": "Daptomycin",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2008,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 510,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 1
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 21,
+            "Antimicrobial": "Daptomycin",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2009,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 526,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 1
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 21,
+            "Antimicrobial": "Daptomycin",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2010,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 328,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 1
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 21,
+            "Antimicrobial": "Daptomycin",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2011,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 585,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 1
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 21,
+            "Antimicrobial": "Daptomycin",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2012,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 550,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 1
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 1999,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 2741,
+            "value": 43,
+            "CILow": 41,
+            "CIHigh": 45
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2000,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 2449,
+            "value": 45,
+            "CILow": 43,
+            "CIHigh": 47
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2001,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 2086,
+            "value": 50,
+            "CILow": 48,
+            "CIHigh": 52
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2002,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 2141,
+            "value": 51,
+            "CILow": 49,
+            "CIHigh": 53
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2003,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 2387,
+            "value": 50,
+            "CILow": 48,
+            "CIHigh": 52
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2004,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 3428,
+            "value": 54,
+            "CILow": 52,
+            "CIHigh": 56
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2005,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 2534,
+            "value": 54,
+            "CILow": 52,
+            "CIHigh": 56
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2006,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 1763,
+            "value": 52,
+            "CILow": 50,
+            "CIHigh": 54
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2007,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 1407,
+            "value": 50,
+            "CILow": 47,
+            "CIHigh": 53
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2008,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 1061,
+            "value": 49,
+            "CILow": 46,
+            "CIHigh": 52
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2009,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 1143,
+            "value": 48,
+            "CILow": 45,
+            "CIHigh": 51
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2010,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 1243,
+            "value": 45,
+            "CILow": 42,
+            "CIHigh": 48
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2011,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 1120,
+            "value": 49,
+            "CILow": 46,
+            "CIHigh": 52
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2012,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 430,
+            "value": 47,
+            "CILow": 42,
+            "CIHigh": 52
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 17,
+            "Antimicrobial": "Linezolid",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2002,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 361,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 1
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 17,
+            "Antimicrobial": "Linezolid",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2003,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 501,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 1
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 17,
+            "Antimicrobial": "Linezolid",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2004,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 1723,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 0
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 17,
+            "Antimicrobial": "Linezolid",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2005,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 1413,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 0
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 17,
+            "Antimicrobial": "Linezolid",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2006,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 1311,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 0
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 17,
+            "Antimicrobial": "Linezolid",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2007,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 877,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 0
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 17,
+            "Antimicrobial": "Linezolid",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2008,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 1144,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 0
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 17,
+            "Antimicrobial": "Linezolid",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2009,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 927,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 0
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 17,
+            "Antimicrobial": "Linezolid",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2010,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 928,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 0
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 17,
+            "Antimicrobial": "Linezolid",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2011,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 955,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 0
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 17,
+            "Antimicrobial": "Linezolid",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2012,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 429,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 1
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2013,
+            "Source": "Becton Dickinson",
+            "IsolatesTested": 1949,
+            "value": 48,
+            "CILow": 46,
+            "CIHigh": 50
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2014,
+            "Source": "Becton Dickinson",
+            "IsolatesTested": 2364,
+            "value": 46,
+            "CILow": 44,
+            "CIHigh": 48
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2015,
+            "Source": "Becton Dickinson",
+            "IsolatesTested": 2943,
+            "value": 41,
+            "CILow": 39,
+            "CIHigh": 43
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2016,
+            "Source": "Becton Dickinson",
+            "IsolatesTested": 3533,
+            "value": 42,
+            "CILow": 40,
+            "CIHigh": 44
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 1999,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 3273,
+            "value": 40,
+            "CILow": 38,
+            "CIHigh": 42
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2000,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 3052,
+            "value": 45,
+            "CILow": 43,
+            "CIHigh": 47
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2001,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 3710,
+            "value": 49,
+            "CILow": 47,
+            "CIHigh": 51
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2002,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 2280,
+            "value": 51,
+            "CILow": 49,
+            "CIHigh": 53
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2003,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 2441,
+            "value": 50,
+            "CILow": 48,
+            "CIHigh": 52
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2004,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 3466,
+            "value": 59,
+            "CILow": 57,
+            "CIHigh": 61
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2005,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 2631,
+            "value": 59,
+            "CILow": 57,
+            "CIHigh": 61
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2006,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 2081,
+            "value": 59,
+            "CILow": 57,
+            "CIHigh": 61
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2007,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 1715,
+            "value": 59,
+            "CILow": 57,
+            "CIHigh": 61
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2008,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 1455,
+            "value": 55,
+            "CILow": 52,
+            "CIHigh": 58
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2009,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 1204,
+            "value": 56,
+            "CILow": 53,
+            "CIHigh": 59
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2010,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 1258,
+            "value": 55,
+            "CILow": 52,
+            "CIHigh": 58
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2011,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 1123,
+            "value": 56,
+            "CILow": 53,
+            "CIHigh": 59
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2012,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 435,
+            "value": 50,
+            "CILow": 45,
+            "CIHigh": 55
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2013,
+            "Source": "Becton Dickinson",
+            "IsolatesTested": 1949,
+            "value": 46,
+            "CILow": 44,
+            "CIHigh": 48
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2014,
+            "Source": "Becton Dickinson",
+            "IsolatesTested": 2364,
+            "value": 47,
+            "CILow": 45,
+            "CIHigh": 49
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2015,
+            "Source": "Becton Dickinson",
+            "IsolatesTested": 2943,
+            "value": 48,
+            "CILow": 46,
+            "CIHigh": 50
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 8,
+            "Antimicrobial": "Oxacillin (MRSA)",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2016,
+            "Source": "Becton Dickinson",
+            "IsolatesTested": 3533,
+            "value": 44,
+            "CILow": 42,
+            "CIHigh": 46
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 9,
+            "Antimicrobial": "Rifampicin",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 1999,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 1833,
+            "value": 5,
+            "CILow": 4,
+            "CIHigh": 6
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 9,
+            "Antimicrobial": "Rifampicin",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2000,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 2091,
+            "value": 4,
+            "CILow": 3,
+            "CIHigh": 5
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 9,
+            "Antimicrobial": "Rifampicin",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2001,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 2829,
+            "value": 4,
+            "CILow": 3,
+            "CIHigh": 5
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 9,
+            "Antimicrobial": "Rifampicin",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2002,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 1500,
+            "value": 3,
+            "CILow": 2,
+            "CIHigh": 4
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 9,
+            "Antimicrobial": "Rifampicin",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2003,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 1653,
+            "value": 3,
+            "CILow": 2,
+            "CIHigh": 4
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 9,
+            "Antimicrobial": "Rifampicin",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2004,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 2712,
+            "value": 4,
+            "CILow": 3,
+            "CIHigh": 5
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 9,
+            "Antimicrobial": "Rifampicin",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2005,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 1894,
+            "value": 5,
+            "CILow": 4,
+            "CIHigh": 6
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 9,
+            "Antimicrobial": "Rifampicin",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2006,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 1629,
+            "value": 3,
+            "CILow": 2,
+            "CIHigh": 4
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 9,
+            "Antimicrobial": "Rifampicin",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2007,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 1637,
+            "value": 5,
+            "CILow": 4,
+            "CIHigh": 6
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 9,
+            "Antimicrobial": "Rifampicin",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2008,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 1367,
+            "value": 3,
+            "CILow": 2,
+            "CIHigh": 4
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 9,
+            "Antimicrobial": "Rifampicin",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2009,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 1191,
+            "value": 2,
+            "CILow": 1,
+            "CIHigh": 3
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 9,
+            "Antimicrobial": "Rifampicin",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2010,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 1249,
+            "value": 2,
+            "CILow": 1,
+            "CIHigh": 3
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 9,
+            "Antimicrobial": "Rifampicin",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2011,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 1119,
+            "value": 2,
+            "CILow": 1,
+            "CIHigh": 3
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 9,
+            "Antimicrobial": "Rifampicin",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2012,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 433,
+            "value": 2,
+            "CILow": 1,
+            "CIHigh": 4
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 3,
+            "Antimicrobial": "Vancomycin",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 1999,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 3183,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 0
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 3,
+            "Antimicrobial": "Vancomycin",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2000,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 2929,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 0
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 3,
+            "Antimicrobial": "Vancomycin",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2001,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 3603,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 0
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 3,
+            "Antimicrobial": "Vancomycin",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2002,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 2195,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 0
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 3,
+            "Antimicrobial": "Vancomycin",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2003,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 2347,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 0
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 3,
+            "Antimicrobial": "Vancomycin",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2004,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 3395,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 0
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 3,
+            "Antimicrobial": "Vancomycin",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2005,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 2563,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 0
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 3,
+            "Antimicrobial": "Vancomycin",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2006,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 2028,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 0
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 3,
+            "Antimicrobial": "Vancomycin",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2007,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 1750,
+            "value": 1,
+            "CILow": 1,
+            "CIHigh": 2
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 3,
+            "Antimicrobial": "Vancomycin",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2008,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 1484,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 0
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 3,
+            "Antimicrobial": "Vancomycin",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2009,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 1212,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 0
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 3,
+            "Antimicrobial": "Vancomycin",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2010,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 1258,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 0
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 3,
+            "Antimicrobial": "Vancomycin",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2011,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 1115,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 0
+          },
+          {
+            "Organism": "Staphylococcus aureus",
+            "OrganismId": 5,
+            "AntimicrobialId": 3,
+            "Antimicrobial": "Vancomycin",
+            "RegionId": 1,
+            "Region": "East North Central",
+            "year": 2012,
+            "Source": "The Surveillance Network, USA",
+            "IsolatesTested": 581,
+            "value": 1,
+            "CILow": 0,
+            "CIHigh": 2
+          }
+        ],
+        {
+          "minyear": 1999,
+          "maxyear": 2016
+        }
+      ]
+    },
+    {
+      "url": "https://resistancemap.onehealthtrust.org/getSubData.php",
+      "method": "POST",
+      "post_data": "abxId=-99&charttype=map&page=use&units=Prescriptions",
+      "payload": [
+        {
+          "year": 2020
+        },
+        [
+          {
+            "value": 840.4977,
+            "State": "Alabama",
+            "StateAbbr": "AL",
+            "Year": 2020
+          },
+          {
+            "value": 307.10683,
+            "State": "Alaska",
+            "StateAbbr": "AK",
+            "Year": 2020
+          },
+          {
+            "value": 510.4588,
+            "State": "Arizona",
+            "StateAbbr": "AZ",
+            "Year": 2020
+          },
+          {
+            "value": 794.00959,
+            "State": "Arkansas",
+            "StateAbbr": "AR",
+            "Year": 2020
+          },
+          {
+            "value": 382.56889,
+            "State": "California",
+            "StateAbbr": "CA",
+            "Year": 2020
+          },
+          {
+            "value": 382.00473,
+            "State": "Colorado",
+            "StateAbbr": "CO",
+            "Year": 2020
+          },
+          {
+            "value": 556.72786,
+            "State": "Connecticut",
+            "StateAbbr": "CT",
+            "Year": 2020
+          },
+          {
+            "value": 562.40148,
+            "State": "Delaware",
+            "StateAbbr": "DE",
+            "Year": 2020
+          },
+          {
+            "value": 616.60479,
+            "State": "District of Columbia",
+            "StateAbbr": "DC",
+            "Year": 2020
+          },
+          {
+            "value": 614.97718,
+            "State": "Florida",
+            "StateAbbr": "FL",
+            "Year": 2020
+          },
+          {
+            "value": 710.28016,
+            "State": "Georgia",
+            "StateAbbr": "GA",
+            "Year": 2020
+          },
+          {
+            "value": 374.26828,
+            "State": "Hawaii",
+            "StateAbbr": "HI",
+            "Year": 2020
+          },
+          {
+            "value": 459.34946,
+            "State": "Idaho",
+            "StateAbbr": "ID",
+            "Year": 2020
+          },
+          {
+            "value": 551.09462,
+            "State": "Illinois",
+            "StateAbbr": "IL",
+            "Year": 2020
+          },
+          {
+            "value": 635.50467,
+            "State": "Indiana",
+            "StateAbbr": "IN",
+            "Year": 2020
+          },
+          {
+            "value": 620.31119,
+            "State": "Iowa",
+            "StateAbbr": "IA",
+            "Year": 2020
+          },
+          {
+            "value": 638.70629,
+            "State": "Kansas",
+            "StateAbbr": "KS",
+            "Year": 2020
+          },
+          {
+            "value": 809.63728,
+            "State": "Kentucky",
+            "StateAbbr": "KY",
+            "Year": 2020
+          },
+          {
+            "value": 849.69707,
+            "State": "Louisiana",
+            "StateAbbr": "LA",
+            "Year": 2020
+          },
+          {
+            "value": 469.71455,
+            "State": "Maine",
+            "StateAbbr": "ME",
+            "Year": 2020
+          },
+          {
+            "value": 507.51592,
+            "State": "Maryland",
+            "StateAbbr": "MD",
+            "Year": 2020
+          },
+          {
+            "value": 493.00705,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2020
+          },
+          {
+            "value": 609.96197,
+            "State": "Michigan",
+            "StateAbbr": "MI",
+            "Year": 2020
+          },
+          {
+            "value": 417.05262,
+            "State": "Minnesota",
+            "StateAbbr": "MN",
+            "Year": 2020
+          },
+          {
+            "value": 882.40629,
+            "State": "Mississippi",
+            "StateAbbr": "MS",
+            "Year": 2020
+          },
+          {
+            "value": 600.75231,
+            "State": "Missouri",
+            "StateAbbr": "MO",
+            "Year": 2020
+          },
+          {
+            "value": 458.97988,
+            "State": "Montana",
+            "StateAbbr": "MT",
+            "Year": 2020
+          },
+          {
+            "value": 661.87908,
+            "State": "Nebraska",
+            "StateAbbr": "NE",
+            "Year": 2020
+          },
+          {
+            "value": 498.09359,
+            "State": "Nevada",
+            "StateAbbr": "NV",
+            "Year": 2020
+          },
+          {
+            "value": 494.06772,
+            "State": "New Hampshire",
+            "StateAbbr": "NH",
+            "Year": 2020
+          },
+          {
+            "value": 581.57238,
+            "State": "New Jersey",
+            "StateAbbr": "NJ",
+            "Year": 2020
+          },
+          {
+            "value": 475.07922,
+            "State": "New Mexico",
+            "StateAbbr": "NM",
+            "Year": 2020
+          },
+          {
+            "value": 603.27411,
+            "State": "New York",
+            "StateAbbr": "NY",
+            "Year": 2020
+          },
+          {
+            "value": 624.65524,
+            "State": "North Carolina",
+            "StateAbbr": "NC",
+            "Year": 2020
+          },
+          {
+            "value": 501.58324,
+            "State": "North Dakota",
+            "StateAbbr": "ND",
+            "Year": 2020
+          },
+          {
+            "value": 640.53282,
+            "State": "Ohio",
+            "StateAbbr": "OH",
+            "Year": 2020
+          },
+          {
+            "value": 631.61488,
+            "State": "Oklahoma",
+            "StateAbbr": "OK",
+            "Year": 2020
+          },
+          {
+            "value": 362.90722,
+            "State": "Oregon",
+            "StateAbbr": "OR",
+            "Year": 2020
+          },
+          {
+            "value": 594.37234,
+            "State": "Pennsylvania",
+            "StateAbbr": "PA",
+            "Year": 2020
+          },
+          {
+            "value": 556.79444,
+            "State": "Rhode Island",
+            "StateAbbr": "RI",
+            "Year": 2020
+          },
+          {
+            "value": 651.39521,
+            "State": "South Carolina",
+            "StateAbbr": "SC",
+            "Year": 2020
+          },
+          {
+            "value": 581.49114,
+            "State": "South Dakota",
+            "StateAbbr": "SD",
+            "Year": 2020
+          },
+          {
+            "value": 776.25025,
+            "State": "Tennessee",
+            "StateAbbr": "TN",
+            "Year": 2020
+          },
+          {
+            "value": 593.91418,
+            "State": "Texas",
+            "StateAbbr": "TX",
+            "Year": 2020
+          },
+          {
+            "value": 489.21048,
+            "State": "Utah",
+            "StateAbbr": "UT",
+            "Year": 2020
+          },
+          {
+            "value": 433.60532,
+            "State": "Vermont",
+            "StateAbbr": "VT",
+            "Year": 2020
+          },
+          {
+            "value": 548.88452,
+            "State": "Virginia",
+            "StateAbbr": "VA",
+            "Year": 2020
+          },
+          {
+            "value": 358.13586,
+            "State": "Washington",
+            "StateAbbr": "WA",
+            "Year": 2020
+          },
+          {
+            "value": 900.46285,
+            "State": "West Virginia",
+            "StateAbbr": "WV",
+            "Year": 2020
+          },
+          {
+            "value": 455.92559,
+            "State": "Wisconsin",
+            "StateAbbr": "WI",
+            "Year": 2020
+          },
+          {
+            "value": 546.15143,
+            "State": "Wyoming",
+            "StateAbbr": "WY",
+            "Year": 2020
+          }
+        ]
+      ]
+    },
+    {
+      "url": "https://resistancemap.onehealthtrust.org/getSubData.php",
+      "method": "POST",
+      "post_data": "abxId%5B%5D=33&abxId%5B%5D=34&abxId%5B%5D=10&abxId%5B%5D=38&stateId=22&charttype=trend&page=use&units=Prescriptions",
+      "payload": [
+        {
+          "state": "Massachusetts"
+        },
+        [
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 251.18736,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 1999
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 261.0833,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2000
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 258.52042,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2001
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 263.87403,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2002
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 284.6696,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2003
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 252.20557,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2004
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 275.16074,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2005
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 281.33937,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2006
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 260.92259,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2007
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 243.65104,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2008
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 241.59358,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2009
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 229.11384,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2010
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 227.23031,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2011
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 220.24794,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2012
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 219.0363,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2013
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 218.32083,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2014
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 223.67889,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2015
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 229.53671,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2016
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 225.03663,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2017
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 220.56037,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2018
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 228.8167,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2019
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 162.45594,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2020
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 113.10267,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 1999
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 106.87799,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2000
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 100.34897,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2001
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 96.11971,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2002
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 98.99861,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2003
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 95.07412,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2004
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 100.27861,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2005
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 101.42519,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2006
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 98.17977,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2007
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 93.87724,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2008
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 93.08171,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2009
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 92.76078,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2010
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 88.52048,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2011
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 87.76881,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2012
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 87.7,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2013
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 86.14754,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2014
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 85.87115,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2015
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 86.22704,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2016
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 83.32716,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2017
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 85.06383,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2018
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 88.7774,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2019
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 73.01368,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2020
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 174.3058,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 1999
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 182.70571,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2000
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 170.36689,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2001
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 166.10032,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2002
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 189.56632,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2003
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 179.44379,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2004
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 195.07597,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2005
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 210.04171,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2006
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 210.55035,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2007
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 216.00747,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2008
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 221.0685,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2009
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 200.03147,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2010
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 196.37784,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2011
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 180.17702,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2012
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 155.00248,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2013
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 150.2085,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2014
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 151.89359,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2015
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 148.23267,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2016
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 140.07937,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2017
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 131.22914,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2018
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 125.78895,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2019
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 83.95192,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2020
+          },
+          {
+            "AntimicrobialId": 38,
+            "Antimicrobial": "Quinolones",
+            "value": 64.58915,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 1999
+          },
+          {
+            "AntimicrobialId": 38,
+            "Antimicrobial": "Quinolones",
+            "value": 76.77708,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2000
+          },
+          {
+            "AntimicrobialId": 38,
+            "Antimicrobial": "Quinolones",
+            "value": 82.52176,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2001
+          },
+          {
+            "AntimicrobialId": 38,
+            "Antimicrobial": "Quinolones",
+            "value": 83.9345,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2002
+          },
+          {
+            "AntimicrobialId": 38,
+            "Antimicrobial": "Quinolones",
+            "value": 90.3748,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2003
+          },
+          {
+            "AntimicrobialId": 38,
+            "Antimicrobial": "Quinolones",
+            "value": 94.65914,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2004
+          },
+          {
+            "AntimicrobialId": 38,
+            "Antimicrobial": "Quinolones",
+            "value": 105.94835,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2005
+          },
+          {
+            "AntimicrobialId": 38,
+            "Antimicrobial": "Quinolones",
+            "value": 112.29307,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2006
+          },
+          {
+            "AntimicrobialId": 38,
+            "Antimicrobial": "Quinolones",
+            "value": 109.55104,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2007
+          },
+          {
+            "AntimicrobialId": 38,
+            "Antimicrobial": "Quinolones",
+            "value": 108.0059,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2008
+          },
+          {
+            "AntimicrobialId": 38,
+            "Antimicrobial": "Quinolones",
+            "value": 100.50738,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2009
+          },
+          {
+            "AntimicrobialId": 38,
+            "Antimicrobial": "Quinolones",
+            "value": 86.16712,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2010
+          },
+          {
+            "AntimicrobialId": 38,
+            "Antimicrobial": "Quinolones",
+            "value": 88.81207,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2011
+          },
+          {
+            "AntimicrobialId": 38,
+            "Antimicrobial": "Quinolones",
+            "value": 87.83985,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2012
+          },
+          {
+            "AntimicrobialId": 38,
+            "Antimicrobial": "Quinolones",
+            "value": 85.79821,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2013
+          },
+          {
+            "AntimicrobialId": 38,
+            "Antimicrobial": "Quinolones",
+            "value": 83.74455,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2014
+          },
+          {
+            "AntimicrobialId": 38,
+            "Antimicrobial": "Quinolones",
+            "value": 81.67924,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2015
+          },
+          {
+            "AntimicrobialId": 38,
+            "Antimicrobial": "Quinolones",
+            "value": 73.23326,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2016
+          },
+          {
+            "AntimicrobialId": 38,
+            "Antimicrobial": "Quinolones",
+            "value": 59.0133,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2017
+          },
+          {
+            "AntimicrobialId": 38,
+            "Antimicrobial": "Quinolones",
+            "value": 52.16479,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2018
+          },
+          {
+            "AntimicrobialId": 38,
+            "Antimicrobial": "Quinolones",
+            "value": 43.63955,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2019
+          },
+          {
+            "AntimicrobialId": 38,
+            "Antimicrobial": "Quinolones",
+            "value": 34.74146,
+            "State": "Massachusetts",
+            "StateAbbr": "MA",
+            "Year": 2020
+          }
+        ],
+        {
+          "minyear": 1999,
+          "maxyear": 2020
+        }
+      ]
+    }
+  ]
+}

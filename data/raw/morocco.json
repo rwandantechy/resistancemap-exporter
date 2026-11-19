@@ -1,0 +1,332 @@
+{
+  "country": "Morocco",
+  "region": "Middle East & North Africa",
+  "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=84&country=Morocco+",
+  "captured_at": "2026-11-19T06:52:29.301473+00:00",
+  "responses": [
+    {
+      "url": "https://resistancemap.onehealthtrust.org/getData.php",
+      "method": "POST",
+      "post_data": "orgId=3&abxId%5B%5D=6&abxId%5B%5D=5&abxId%5B%5D=7&abxId%5B%5D=16&countryId=84&charttype=trend&page=resistance&resetabxs=false&defaultValues=true&countryPage=true&accessvariable=neH4C7RCSfuIuJh08vd%7DqlSv!",
+      "payload": [
+        {
+          "title": "Morocco "
+        },
+        [
+          {
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems"
+          },
+          {
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones"
+          },
+          {
+            "AntimicrobialId": 16,
+            "Antimicrobial": "Trimethoprim-sulfamethoxazole"
+          }
+        ],
+        [
+          {
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems"
+          },
+          {
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones"
+          },
+          {
+            "AntimicrobialId": 16,
+            "Antimicrobial": "Trimethoprim-sulfamethoxazole"
+          }
+        ],
+        [
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems",
+            "CountryId": 84,
+            "CountryName": "Morocco ",
+            "ISO3": "MAR",
+            "code": "MA",
+            "year": 2020,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 44,
+            "value": 5,
+            "CILow": 1,
+            "CIHigh": 16
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems",
+            "CountryId": 84,
+            "CountryName": "Morocco ",
+            "ISO3": "MAR",
+            "code": "MA",
+            "year": 2021,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 2397,
+            "value": 3,
+            "CILow": 2,
+            "CIHigh": 4
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems",
+            "CountryId": 84,
+            "CountryName": "Morocco ",
+            "ISO3": "MAR",
+            "code": "MA",
+            "year": 2022,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 5675,
+            "value": 2,
+            "CILow": 2,
+            "CIHigh": 2
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems",
+            "CountryId": 84,
+            "CountryName": "Morocco ",
+            "ISO3": "MAR",
+            "code": "MA",
+            "year": 2023,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 11305,
+            "value": 3,
+            "CILow": 3,
+            "CIHigh": 3
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)",
+            "CountryId": 84,
+            "CountryName": "Morocco ",
+            "ISO3": "MAR",
+            "code": "MA",
+            "year": 2020,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "NOTE: less than 30 isolates tested",
+            "IsolatesTested": 30,
+            "value": 5,
+            "CILow": 1,
+            "CIHigh": 19
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)",
+            "CountryId": 84,
+            "CountryName": "Morocco ",
+            "ISO3": "MAR",
+            "code": "MA",
+            "year": 2021,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 2512,
+            "value": 19,
+            "CILow": 18,
+            "CIHigh": 21
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)",
+            "CountryId": 84,
+            "CountryName": "Morocco ",
+            "ISO3": "MAR",
+            "code": "MA",
+            "year": 2022,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 9229,
+            "value": 19,
+            "CILow": 18,
+            "CIHigh": 20
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)",
+            "CountryId": 84,
+            "CountryName": "Morocco ",
+            "ISO3": "MAR",
+            "code": "MA",
+            "year": 2023,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 13985,
+            "value": 20,
+            "CILow": 19,
+            "CIHigh": 21
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "CountryId": 84,
+            "CountryName": "Morocco ",
+            "ISO3": "MAR",
+            "code": "MA",
+            "year": 2020,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "NOTE: less than 30 isolates tested",
+            "IsolatesTested": 30,
+            "value": 41,
+            "CILow": 25,
+            "CIHigh": 59
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "CountryId": 84,
+            "CountryName": "Morocco ",
+            "ISO3": "MAR",
+            "code": "MA",
+            "year": 2021,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 2397,
+            "value": 41,
+            "CILow": 39,
+            "CIHigh": 43
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "CountryId": 84,
+            "CountryName": "Morocco ",
+            "ISO3": "MAR",
+            "code": "MA",
+            "year": 2022,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 4756,
+            "value": 34,
+            "CILow": 33,
+            "CIHigh": 35
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "CountryId": 84,
+            "CountryName": "Morocco ",
+            "ISO3": "MAR",
+            "code": "MA",
+            "year": 2023,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 8646,
+            "value": 39,
+            "CILow": 38,
+            "CIHigh": 40
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 16,
+            "Antimicrobial": "Trimethoprim-sulfamethoxazole",
+            "CountryId": 84,
+            "CountryName": "Morocco ",
+            "ISO3": "MAR",
+            "code": "MA",
+            "year": 2020,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "NOTE: less than 30 isolates tested",
+            "IsolatesTested": 30,
+            "value": 41,
+            "CILow": 25,
+            "CIHigh": 59
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 16,
+            "Antimicrobial": "Trimethoprim-sulfamethoxazole",
+            "CountryId": 84,
+            "CountryName": "Morocco ",
+            "ISO3": "MAR",
+            "code": "MA",
+            "year": 2021,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 1197,
+            "value": 49,
+            "CILow": 46,
+            "CIHigh": 52
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 16,
+            "Antimicrobial": "Trimethoprim-sulfamethoxazole",
+            "CountryId": 84,
+            "CountryName": "Morocco ",
+            "ISO3": "MAR",
+            "code": "MA",
+            "year": 2022,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 2383,
+            "value": 37,
+            "CILow": 35,
+            "CIHigh": 39
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 16,
+            "Antimicrobial": "Trimethoprim-sulfamethoxazole",
+            "CountryId": 84,
+            "CountryName": "Morocco ",
+            "ISO3": "MAR",
+            "code": "MA",
+            "year": 2023,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 4571,
+            "value": 44,
+            "CILow": 43,
+            "CIHigh": 45
+          }
+        ],
+        {
+          "minyear": 2020,
+          "maxyear": 2023
+        }
+      ]
+    }
+  ]
+}

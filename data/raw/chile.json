@@ -1,0 +1,178 @@
+{
+  "country": "Chile",
+  "region": "Latin America & Caribbean",
+  "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=69&country=Chile+",
+  "captured_at": "2026-11-19T06:49:41.171974+00:00",
+  "responses": [
+    {
+      "url": "https://resistancemap.onehealthtrust.org/getData.php",
+      "method": "POST",
+      "post_data": "orgId=3&abxId%5B%5D=6&abxId%5B%5D=5&abxId%5B%5D=7&abxId%5B%5D=2&abxId%5B%5D=4&abxId%5B%5D=14&countryId=69&charttype=trend&page=resistance&resetabxs=false&defaultValues=true&countryPage=true&accessvariable=TBjNMQ9c%40CXvlboyfp2bXtLx*",
+      "payload": [
+        {
+          "title": "Chile "
+        },
+        [
+          {
+            "AntimicrobialId": 4,
+            "Antimicrobial": "Aminoglycosides"
+          },
+          {
+            "AntimicrobialId": 2,
+            "Antimicrobial": "Aminopenicillins"
+          },
+          {
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems"
+          },
+          {
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones"
+          },
+          {
+            "AntimicrobialId": 14,
+            "Antimicrobial": "Piperacillin-tazobactam"
+          }
+        ],
+        [
+          {
+            "AntimicrobialId": 4,
+            "Antimicrobial": "Aminoglycosides"
+          },
+          {
+            "AntimicrobialId": 2,
+            "Antimicrobial": "Aminopenicillins"
+          },
+          {
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems"
+          },
+          {
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones"
+          },
+          {
+            "AntimicrobialId": 14,
+            "Antimicrobial": "Piperacillin-tazobactam"
+          }
+        ],
+        [
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 4,
+            "Antimicrobial": "Aminoglycosides",
+            "CountryId": 69,
+            "CountryName": "Chile ",
+            "ISO3": "CHL",
+            "code": "CL",
+            "year": 2014,
+            "Source": "Chilean Society of infectious diseases",
+            "Notes": "",
+            "IsolatesTested": 1506,
+            "value": 14,
+            "CILow": 12,
+            "CIHigh": 16
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 2,
+            "Antimicrobial": "Aminopenicillins",
+            "CountryId": 69,
+            "CountryName": "Chile ",
+            "ISO3": "CHL",
+            "code": "CL",
+            "year": 2014,
+            "Source": "Chilean Society of infectious diseases",
+            "Notes": "",
+            "IsolatesTested": 547,
+            "value": 69,
+            "CILow": 65,
+            "CIHigh": 73
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems",
+            "CountryId": 69,
+            "CountryName": "Chile ",
+            "ISO3": "CHL",
+            "code": "CL",
+            "year": 2014,
+            "Source": "Chilean Society of infectious diseases",
+            "Notes": "",
+            "IsolatesTested": 1491,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 0
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)",
+            "CountryId": 69,
+            "CountryName": "Chile ",
+            "ISO3": "CHL",
+            "code": "CL",
+            "year": 2014,
+            "Source": "Chilean Society of infectious diseases",
+            "Notes": "",
+            "IsolatesTested": 1551,
+            "value": 20,
+            "CILow": 18,
+            "CIHigh": 22
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "CountryId": 69,
+            "CountryName": "Chile ",
+            "ISO3": "CHL",
+            "code": "CL",
+            "year": 2014,
+            "Source": "Chilean Society of infectious diseases",
+            "Notes": "",
+            "IsolatesTested": 1558,
+            "value": 29,
+            "CILow": 27,
+            "CIHigh": 31
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 14,
+            "Antimicrobial": "Piperacillin-tazobactam",
+            "CountryId": 69,
+            "CountryName": "Chile ",
+            "ISO3": "CHL",
+            "code": "CL",
+            "year": 2014,
+            "Source": "Chilean Society of infectious diseases",
+            "Notes": "",
+            "IsolatesTested": 1505,
+            "value": 7,
+            "CILow": 6,
+            "CIHigh": 8
+          }
+        ],
+        {
+          "minyear": 2014,
+          "maxyear": 2014
+        }
+      ]
+    }
+  ]
+}

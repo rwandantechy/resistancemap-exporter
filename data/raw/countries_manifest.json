@@ -1,0 +1,1208 @@
+[
+  {
+    "region": "East Asia & Pacific",
+    "country": "Australia",
+    "slug": "australia",
+    "country_id": "1",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=1&country=Australia"
+  },
+  {
+    "region": "East Asia & Pacific",
+    "country": "Brunei",
+    "slug": "brunei",
+    "country_id": "123",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=123&country=Brunei"
+  },
+  {
+    "region": "East Asia & Pacific",
+    "country": "Cambodia",
+    "slug": "cambodia",
+    "country_id": "113",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=113&country=Cambodia"
+  },
+  {
+    "region": "East Asia & Pacific",
+    "country": "China",
+    "slug": "china",
+    "country_id": "70",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=70&country=China+"
+  },
+  {
+    "region": "East Asia & Pacific",
+    "country": "Hong Kong",
+    "slug": "hong-kong",
+    "country_id": "76",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=76&country=Hong+Kong+"
+  },
+  {
+    "region": "East Asia & Pacific",
+    "country": "Indonesia",
+    "slug": "indonesia",
+    "country_id": "77",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=77&country=Indonesia+"
+  },
+  {
+    "region": "East Asia & Pacific",
+    "country": "Japan",
+    "slug": "japan",
+    "country_id": "78",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=78&country=Japan+"
+  },
+  {
+    "region": "East Asia & Pacific",
+    "country": "Korea, Rep.",
+    "slug": "korea-rep",
+    "country_id": "92",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=92&country=Korea%2C+Rep."
+  },
+  {
+    "region": "East Asia & Pacific",
+    "country": "Laos",
+    "slug": "laos",
+    "country_id": "115",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=115&country=Laos"
+  },
+  {
+    "region": "East Asia & Pacific",
+    "country": "Malaysia",
+    "slug": "malaysia",
+    "country_id": "82",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=82&country=Malaysia+"
+  },
+  {
+    "region": "East Asia & Pacific",
+    "country": "Myanmar",
+    "slug": "myanmar",
+    "country_id": "116",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=116&country=Myanmar"
+  },
+  {
+    "region": "East Asia & Pacific",
+    "country": "Nepal",
+    "slug": "nepal",
+    "country_id": "121",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=121&country=Nepal"
+  },
+  {
+    "region": "East Asia & Pacific",
+    "country": "New Zealand",
+    "slug": "new-zealand",
+    "country_id": "26",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=26&country=New+Zealand"
+  },
+  {
+    "region": "East Asia & Pacific",
+    "country": "Papua New Guinea",
+    "slug": "papua-new-guinea",
+    "country_id": "146",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=146&country=Papua+New+Guinea"
+  },
+  {
+    "region": "East Asia & Pacific",
+    "country": "Philippines",
+    "slug": "philippines",
+    "country_id": "87",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=87&country=Philippines+"
+  },
+  {
+    "region": "East Asia & Pacific",
+    "country": "Singapore",
+    "slug": "singapore",
+    "country_id": "91",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=91&country=Singapore+"
+  },
+  {
+    "region": "East Asia & Pacific",
+    "country": "Taiwan",
+    "slug": "taiwan",
+    "country_id": "93",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=93&country=Taiwan+"
+  },
+  {
+    "region": "East Asia & Pacific",
+    "country": "Thailand",
+    "slug": "thailand",
+    "country_id": "36",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=36&country=Thailand"
+  },
+  {
+    "region": "East Asia & Pacific",
+    "country": "Timor-Leste",
+    "slug": "timor-leste",
+    "country_id": "150",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=150&country=Timor-Leste"
+  },
+  {
+    "region": "East Asia & Pacific",
+    "country": "Vietnam",
+    "slug": "vietnam",
+    "country_id": "39",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=39&country=Vietnam"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Armenia",
+    "slug": "armenia",
+    "country_id": "132",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=132&country=Armenia"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Austria",
+    "slug": "austria",
+    "country_id": "2",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=2&country=Austria"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Belarus",
+    "slug": "belarus",
+    "country_id": "40",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=40&country=Belarus"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Belgium",
+    "slug": "belgium",
+    "country_id": "3",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=3&country=Belgium"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Bosnia and Herzegovina",
+    "slug": "bosnia-and-herzegovina",
+    "country_id": "98",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=98&country=Bosnia+and+Herzegovina"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Bulgaria",
+    "slug": "bulgaria",
+    "country_id": "4",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=4&country=Bulgaria"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Croatia",
+    "slug": "croatia",
+    "country_id": "6",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=6&country=Croatia"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Cyprus",
+    "slug": "cyprus",
+    "country_id": "7",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=7&country=Cyprus"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Czech Republic",
+    "slug": "czech-republic",
+    "country_id": "8",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=8&country=Czech+Republic"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Denmark",
+    "slug": "denmark",
+    "country_id": "9",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=9&country=Denmark"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Estonia",
+    "slug": "estonia",
+    "country_id": "10",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=10&country=Estonia"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Finland",
+    "slug": "finland",
+    "country_id": "11",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=11&country=Finland"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "France",
+    "slug": "france",
+    "country_id": "12",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=12&country=France"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Georgia",
+    "slug": "georgia",
+    "country_id": "106",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=106&country=Georgia"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Germany",
+    "slug": "germany",
+    "country_id": "13",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=13&country=Germany"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Greece",
+    "slug": "greece",
+    "country_id": "14",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=14&country=Greece"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Hungary",
+    "slug": "hungary",
+    "country_id": "15",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=15&country=Hungary"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Iceland",
+    "slug": "iceland",
+    "country_id": "16",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=16&country=Iceland"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Ireland",
+    "slug": "ireland",
+    "country_id": "18",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=18&country=Ireland"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Italy",
+    "slug": "italy",
+    "country_id": "19",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=19&country=Italy"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Kazakhstan",
+    "slug": "kazakhstan",
+    "country_id": "99",
+    "resistance_available": "No",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=99&country=Kazakhstan"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Kosovo",
+    "slug": "kosovo",
+    "country_id": "102",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=102&country=Kosovo"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Latvia",
+    "slug": "latvia",
+    "country_id": "21",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=21&country=Latvia"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Lithuania",
+    "slug": "lithuania",
+    "country_id": "22",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=22&country=Lithuania"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Luxembourg",
+    "slug": "luxembourg",
+    "country_id": "23",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=23&country=Luxembourg"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Macedonia, FYR",
+    "slug": "macedonia-fyr",
+    "country_id": "41",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=41&country=Macedonia%2C+FYR"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Moldova",
+    "slug": "moldova",
+    "country_id": "125",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=125&country=Moldova"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Montenegro",
+    "slug": "montenegro",
+    "country_id": "110",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=110&country=Montenegro"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Netherlands",
+    "slug": "netherlands",
+    "country_id": "25",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=25&country=Netherlands"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Norway",
+    "slug": "norway",
+    "country_id": "27",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=27&country=Norway"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Poland",
+    "slug": "poland",
+    "country_id": "28",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=28&country=Poland"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Portugal",
+    "slug": "portugal",
+    "country_id": "29",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=29&country=Portugal"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Romania",
+    "slug": "romania",
+    "country_id": "30",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=30&country=Romania"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Russia",
+    "slug": "russia",
+    "country_id": "89",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=89&country=Russia"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Serbia",
+    "slug": "serbia",
+    "country_id": "42",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=42&country=Serbia"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Slovakia",
+    "slug": "slovakia",
+    "country_id": "31",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=31&country=Slovakia"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Slovenia",
+    "slug": "slovenia",
+    "country_id": "32",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=32&country=Slovenia"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Spain",
+    "slug": "spain",
+    "country_id": "34",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=34&country=Spain"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Sweden",
+    "slug": "sweden",
+    "country_id": "35",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=35&country=Sweden"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Switzerland",
+    "slug": "switzerland",
+    "country_id": "43",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=43&country=Switzerland"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Türkiye",
+    "slug": "turkiye",
+    "country_id": "44",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=44&country=T%C3%BCrkiye"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "Ukraine",
+    "slug": "ukraine",
+    "country_id": "103",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=103&country=Ukraine"
+  },
+  {
+    "region": "Europe & Central Asia",
+    "country": "United Kingdom",
+    "slug": "united-kingdom",
+    "country_id": "37",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=37&country=United+Kingdom"
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "country": "Argentina",
+    "slug": "argentina",
+    "country_id": "65",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=65&country=Argentina+"
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "country": "Brazil",
+    "slug": "brazil",
+    "country_id": "67",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=67&country=Brazil+"
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "country": "Central America",
+    "slug": "central-america",
+    "country_id": "68",
+    "resistance_available": "No",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=68&country=Central+America"
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "country": "Chile",
+    "slug": "chile",
+    "country_id": "69",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=69&country=Chile+"
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "country": "Colombia",
+    "slug": "colombia",
+    "country_id": "71",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=71&country=Colombia+"
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "country": "Dominican Republic",
+    "slug": "dominican-republic",
+    "country_id": "72",
+    "resistance_available": "No",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=72&country=Dominican+Republic"
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "country": "Ecuador",
+    "slug": "ecuador",
+    "country_id": "73",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=73&country=Ecuador+"
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "country": "Mexico",
+    "slug": "mexico",
+    "country_id": "83",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=83&country=Mexico+"
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "country": "Peru",
+    "slug": "peru",
+    "country_id": "86",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=86&country=Peru+"
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "country": "Puerto Rico",
+    "slug": "puerto-rico",
+    "country_id": "88",
+    "resistance_available": "No",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=88&country=Puerto+Rico+"
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "country": "Trinidad and Tobago",
+    "slug": "trinidad-and-tobago",
+    "country_id": "151",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=151&country=Trinidad+and+Tobago"
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "country": "Uruguay",
+    "slug": "uruguay",
+    "country_id": "96",
+    "resistance_available": "No",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=96&country=Uruguay"
+  },
+  {
+    "region": "Latin America & Caribbean",
+    "country": "Venezuela",
+    "slug": "venezuela",
+    "country_id": "97",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=97&country=Venezuela+"
+  },
+  {
+    "region": "Middle East & North Africa",
+    "country": "Afghanistan",
+    "slug": "afghanistan",
+    "country_id": "133",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=133&country=Afghanistan"
+  },
+  {
+    "region": "Middle East & North Africa",
+    "country": "Algeria",
+    "slug": "algeria",
+    "country_id": "64",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=64&country=Algeria+"
+  },
+  {
+    "region": "Middle East & North Africa",
+    "country": "Bahrain",
+    "slug": "bahrain",
+    "country_id": "105",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=105&country=Bahrain"
+  },
+  {
+    "region": "Middle East & North Africa",
+    "country": "Djibouti",
+    "slug": "djibouti",
+    "country_id": "140",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=140&country=Djibouti"
+  },
+  {
+    "region": "Middle East & North Africa",
+    "country": "Egypt",
+    "slug": "egypt",
+    "country_id": "74",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=74&country=Egypt+"
+  },
+  {
+    "region": "Middle East & North Africa",
+    "country": "Ethiopia",
+    "slug": "ethiopia",
+    "country_id": "118",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=118&country=Ethiopia"
+  },
+  {
+    "region": "Middle East & North Africa",
+    "country": "Iran",
+    "slug": "iran",
+    "country_id": "114",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=114&country=Iran"
+  },
+  {
+    "region": "Middle East & North Africa",
+    "country": "Iraq",
+    "slug": "iraq",
+    "country_id": "130",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=130&country=Iraq"
+  },
+  {
+    "region": "Middle East & North Africa",
+    "country": "Jordan",
+    "slug": "jordan",
+    "country_id": "79",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=79&country=Jordan+"
+  },
+  {
+    "region": "Middle East & North Africa",
+    "country": "Kuwait",
+    "slug": "kuwait",
+    "country_id": "80",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=80&country=Kuwait+"
+  },
+  {
+    "region": "Middle East & North Africa",
+    "country": "Lebanon",
+    "slug": "lebanon",
+    "country_id": "81",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=81&country=Lebanon+"
+  },
+  {
+    "region": "Middle East & North Africa",
+    "country": "Libya",
+    "slug": "libya",
+    "country_id": "124",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=124&country=Libya"
+  },
+  {
+    "region": "Middle East & North Africa",
+    "country": "Malta",
+    "slug": "malta",
+    "country_id": "24",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=24&country=Malta"
+  },
+  {
+    "region": "Middle East & North Africa",
+    "country": "Morocco",
+    "slug": "morocco",
+    "country_id": "84",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=84&country=Morocco+"
+  },
+  {
+    "region": "Middle East & North Africa",
+    "country": "Oman",
+    "slug": "oman",
+    "country_id": "112",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=112&country=Oman"
+  },
+  {
+    "region": "Middle East & North Africa",
+    "country": "Palestinian Territory",
+    "slug": "palestinian-territory",
+    "country_id": "131",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=131&country=Palestinian+Territory"
+  },
+  {
+    "region": "Middle East & North Africa",
+    "country": "Qatar",
+    "slug": "qatar",
+    "country_id": "126",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=126&country=Qatar"
+  },
+  {
+    "region": "Middle East & North Africa",
+    "country": "Saudi Arabia",
+    "slug": "saudi-arabia",
+    "country_id": "90",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=90&country=Saudi+Arabia+"
+  },
+  {
+    "region": "Middle East & North Africa",
+    "country": "Somalia",
+    "slug": "somalia",
+    "country_id": "148",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=148&country=Somalia"
+  },
+  {
+    "region": "Middle East & North Africa",
+    "country": "Sudan",
+    "slug": "sudan",
+    "country_id": "117",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=117&country=Sudan"
+  },
+  {
+    "region": "Middle East & North Africa",
+    "country": "Syrian Arab Republic",
+    "slug": "syrian-arab-republic",
+    "country_id": "149",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=149&country=Syrian+Arab+Republic"
+  },
+  {
+    "region": "Middle East & North Africa",
+    "country": "Tunisia",
+    "slug": "tunisia",
+    "country_id": "94",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=94&country=Tunisia+"
+  },
+  {
+    "region": "Middle East & North Africa",
+    "country": "United Arab Emirates",
+    "slug": "united-arab-emirates",
+    "country_id": "95",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=95&country=United+Arab+Emirates"
+  },
+  {
+    "region": "Middle East & North Africa",
+    "country": "Yemen",
+    "slug": "yemen",
+    "country_id": "154",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=154&country=Yemen"
+  },
+  {
+    "region": "North America",
+    "country": "Canada",
+    "slug": "canada",
+    "country_id": "5",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=5&country=Canada"
+  },
+  {
+    "region": "North America",
+    "country": "United States",
+    "slug": "united-states",
+    "country_id": "38",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPageSub.php?countryId=38&country=United+States"
+  },
+  {
+    "region": "South Asia",
+    "country": "Bangladesh",
+    "slug": "bangladesh",
+    "country_id": "66",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=66&country=Bangladesh"
+  },
+  {
+    "region": "South Asia",
+    "country": "Bhutan",
+    "slug": "bhutan",
+    "country_id": "122",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=122&country=Bhutan"
+  },
+  {
+    "region": "South Asia",
+    "country": "India",
+    "slug": "india",
+    "country_id": "17",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=17&country=India"
+  },
+  {
+    "region": "South Asia",
+    "country": "Maldives",
+    "slug": "maldives",
+    "country_id": "143",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=143&country=Maldives"
+  },
+  {
+    "region": "South Asia",
+    "country": "Pakistan",
+    "slug": "pakistan",
+    "country_id": "85",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=85&country=Pakistan+"
+  },
+  {
+    "region": "South Asia",
+    "country": "Sri Lanka",
+    "slug": "sri-lanka",
+    "country_id": "100",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=100&country=Sri+Lanka"
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "country": "Benin",
+    "slug": "benin",
+    "country_id": "134",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=134&country=Benin"
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "country": "Burkina Faso",
+    "slug": "burkina-faso",
+    "country_id": "127",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=127&country=Burkina+Faso"
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "country": "Burundi",
+    "slug": "burundi",
+    "country_id": "135",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=135&country=Burundi"
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "country": "Cameroon",
+    "slug": "cameroon",
+    "country_id": "136",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=136&country=Cameroon"
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "country": "Chad",
+    "slug": "chad",
+    "country_id": "137",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=137&country=Chad"
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "country": "Côte d'Ivoire",
+    "slug": "cote-d-ivoire",
+    "country_id": "138",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=138&country=C%C3%B4te+d%27Ivoire"
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "country": "Democratic Republic of the Congo",
+    "slug": "democratic-republic-of-the-congo",
+    "country_id": "139",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=139&country=Democratic+Republic+of+the+Congo"
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "country": "Eswatini",
+    "slug": "eswatini",
+    "country_id": "141",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=141&country=Eswatini"
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "country": "Francophone West Africa",
+    "slug": "francophone-west-africa",
+    "country_id": "75",
+    "resistance_available": "No",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=75&country=Francophone+West+Africa"
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "country": "Ghana",
+    "slug": "ghana",
+    "country_id": "101",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=101&country=Ghana"
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "country": "Guinea",
+    "slug": "guinea",
+    "country_id": "142",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=142&country=Guinea"
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "country": "Kenya",
+    "slug": "kenya",
+    "country_id": "20",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=20&country=Kenya"
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "country": "Liberia",
+    "slug": "liberia",
+    "country_id": "128",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=128&country=Liberia"
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "country": "Madagascar",
+    "slug": "madagascar",
+    "country_id": "119",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=119&country=Madagascar"
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "country": "Malawi",
+    "slug": "malawi",
+    "country_id": "104",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=104&country=Malawi"
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "country": "Mali",
+    "slug": "mali",
+    "country_id": "120",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=120&country=Mali"
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "country": "Mauritius",
+    "slug": "mauritius",
+    "country_id": "129",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=129&country=Mauritius"
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "country": "Mozambique",
+    "slug": "mozambique",
+    "country_id": "144",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=144&country=Mozambique"
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "country": "Namibia",
+    "slug": "namibia",
+    "country_id": "145",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=145&country=Namibia"
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "country": "Nigeria",
+    "slug": "nigeria",
+    "country_id": "111",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=111&country=Nigeria"
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "country": "Rwanda",
+    "slug": "rwanda",
+    "country_id": "147",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=147&country=Rwanda"
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "country": "South Africa",
+    "slug": "south-africa",
+    "country_id": "33",
+    "resistance_available": "Yes",
+    "use_available": "Yes",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=33&country=South+Africa"
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "country": "Uganda",
+    "slug": "uganda",
+    "country_id": "152",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=152&country=Uganda"
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "country": "United Republic of Tanzania",
+    "slug": "united-republic-of-tanzania",
+    "country_id": "153",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=153&country=United+Republic+of+Tanzania"
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "country": "Zambia",
+    "slug": "zambia",
+    "country_id": "108",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=108&country=Zambia"
+  },
+  {
+    "region": "Sub-Saharan Africa",
+    "country": "Zimbabwe",
+    "slug": "zimbabwe",
+    "country_id": "109",
+    "resistance_available": "Yes",
+    "use_available": "No",
+    "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=109&country=Zimbabwe"
+  }
+]

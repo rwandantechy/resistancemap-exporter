@@ -1,0 +1,574 @@
+{
+  "country": "Kazakhstan",
+  "region": "Europe & Central Asia",
+  "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=99&country=Kazakhstan",
+  "captured_at": "2026-11-19T06:43:21.306300+00:00",
+  "responses": [
+    {
+      "url": "https://resistancemap.onehealthtrust.org/getData.php",
+      "method": "POST",
+      "post_data": "abxId%5B%5D=33&abxId%5B%5D=34&abxId%5B%5D=7&abxId%5B%5D=10&abxId%5B%5D=40&countryId=99&charttype=trend&page=use&units=DDD&defaultValues=true&countryPage=true&accessvariable=ZM2kjRTWrijKveLixGTXLKHHA",
+      "payload": [
+        {
+          "country": "Kazakhstan"
+        },
+        [
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 1056.04498,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2005,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 1247.06159,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2006,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 1479.28657,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2007,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 1994.5637,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2008,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 1576.73033,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2009,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 1899.23755,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2010,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 2184.03308,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2011,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 2457.08619,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2012,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 2710.30179,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2013,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 2867.23614,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2014,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 3468.71496,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2015,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 249.7593,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2005,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 445.42482,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2006,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 431.32768,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2007,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 594.65537,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2008,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 550.50689,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2009,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 733.31062,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2010,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 1030.24862,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2011,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 997.19595,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2012,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 992.79489,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2013,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 1004.66415,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2014,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 1123.20487,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2015,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 922.20271,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2005,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 979.92771,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2006,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 837.30518,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2007,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 783.80148,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2008,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 824.55465,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2009,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 1043.76453,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2010,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 1116.20153,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2011,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 1307.512,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2012,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 1388.25059,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2013,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 1271.42448,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2014,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 1249.62886,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2015,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 532.41814,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2005,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 580.15634,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2006,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 664.08218,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2007,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 612.46778,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2008,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 559.80416,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2009,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 668.32852,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2010,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 632.1287,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2011,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 644.33983,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2012,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 648.5762,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2013,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 634.18688,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2014,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 582.65302,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2015,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 599.00341,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2005,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 443.95504,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2006,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 460.92095,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2007,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 506.39084,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2008,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 310.70797,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2009,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 342.91494,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2010,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 363.76768,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2011,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 356.43774,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2012,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 314.75215,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2013,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 263.61637,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2014,
+            "Sector": "Hospital/Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 286.41544,
+            "CountryName": "Kazakhstan",
+            "ISO3": "KAZ",
+            "code": "KZ",
+            "Year": 2015,
+            "Sector": "Hospital/Retail"
+          }
+        ],
+        {
+          "minyear": 2005,
+          "maxyear": 2015
+        }
+      ]
+    }
+  ]
+}

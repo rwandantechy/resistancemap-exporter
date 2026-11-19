@@ -1,0 +1,348 @@
+{
+  "country": "Colombia",
+  "region": "Latin America & Caribbean",
+  "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=71&country=Colombia+",
+  "captured_at": "2026-11-19T06:49:48.416077+00:00",
+  "responses": [
+    {
+      "url": "https://resistancemap.onehealthtrust.org/getData.php",
+      "method": "POST",
+      "post_data": "orgId=3&abxId%5B%5D=6&abxId%5B%5D=5&abxId%5B%5D=7&abxId%5B%5D=16&abxId%5B%5D=2&abxId%5B%5D=19&countryId=71&charttype=trend&page=resistance&resetabxs=false&defaultValues=true&countryPage=true&accessvariable=kkr9dQYkSMmEFI%7D4WicWKtC0y",
+      "payload": [
+        {
+          "title": "Colombia "
+        },
+        [
+          {
+            "AntimicrobialId": 2,
+            "Antimicrobial": "Aminopenicillins"
+          },
+          {
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems"
+          },
+          {
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones"
+          },
+          {
+            "AntimicrobialId": 19,
+            "Antimicrobial": "Polymyxins"
+          },
+          {
+            "AntimicrobialId": 16,
+            "Antimicrobial": "Trimethoprim-sulfamethoxazole"
+          }
+        ],
+        [
+          {
+            "AntimicrobialId": 2,
+            "Antimicrobial": "Aminopenicillins"
+          },
+          {
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems"
+          },
+          {
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones"
+          },
+          {
+            "AntimicrobialId": 19,
+            "Antimicrobial": "Polymyxins"
+          },
+          {
+            "AntimicrobialId": 16,
+            "Antimicrobial": "Trimethoprim-sulfamethoxazole"
+          }
+        ],
+        [
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 2,
+            "Antimicrobial": "Aminopenicillins",
+            "CountryId": 71,
+            "CountryName": "Colombia ",
+            "ISO3": "COL",
+            "code": "CO",
+            "year": 2021,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 107690,
+            "value": 64,
+            "CILow": 64,
+            "CIHigh": 64
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems",
+            "CountryId": 71,
+            "CountryName": "Colombia ",
+            "ISO3": "COL",
+            "code": "CO",
+            "year": 2021,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 319505,
+            "value": 1,
+            "CILow": 1,
+            "CIHigh": 1
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems",
+            "CountryId": 71,
+            "CountryName": "Colombia ",
+            "ISO3": "COL",
+            "code": "CO",
+            "year": 2022,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 495211,
+            "value": 1,
+            "CILow": 1,
+            "CIHigh": 1
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems",
+            "CountryId": 71,
+            "CountryName": "Colombia ",
+            "ISO3": "COL",
+            "code": "CO",
+            "year": 2023,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 532052,
+            "value": 1,
+            "CILow": 1,
+            "CIHigh": 1
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)",
+            "CountryId": 71,
+            "CountryName": "Colombia ",
+            "ISO3": "COL",
+            "code": "CO",
+            "year": 2021,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 430181,
+            "value": 20,
+            "CILow": 20,
+            "CIHigh": 20
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)",
+            "CountryId": 71,
+            "CountryName": "Colombia ",
+            "ISO3": "COL",
+            "code": "CO",
+            "year": 2022,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 641536,
+            "value": 12,
+            "CILow": 12,
+            "CIHigh": 12
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)",
+            "CountryId": 71,
+            "CountryName": "Colombia ",
+            "ISO3": "COL",
+            "code": "CO",
+            "year": 2023,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 672656,
+            "value": 12,
+            "CILow": 12,
+            "CIHigh": 12
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "CountryId": 71,
+            "CountryName": "Colombia ",
+            "ISO3": "COL",
+            "code": "CO",
+            "year": 2021,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 181085,
+            "value": 32,
+            "CILow": 32,
+            "CIHigh": 32
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "CountryId": 71,
+            "CountryName": "Colombia ",
+            "ISO3": "COL",
+            "code": "CO",
+            "year": 2022,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 274714,
+            "value": 34,
+            "CILow": 34,
+            "CIHigh": 34
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "CountryId": 71,
+            "CountryName": "Colombia ",
+            "ISO3": "COL",
+            "code": "CO",
+            "year": 2023,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 293943,
+            "value": 33,
+            "CILow": 33,
+            "CIHigh": 33
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 19,
+            "Antimicrobial": "Polymyxins",
+            "CountryId": 71,
+            "CountryName": "Colombia ",
+            "ISO3": "COL",
+            "code": "CO",
+            "year": 2021,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 26709,
+            "value": 3,
+            "CILow": 3,
+            "CIHigh": 3
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 19,
+            "Antimicrobial": "Polymyxins",
+            "CountryId": 71,
+            "CountryName": "Colombia ",
+            "ISO3": "COL",
+            "code": "CO",
+            "year": 2022,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 27430,
+            "value": 3,
+            "CILow": 3,
+            "CIHigh": 3
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 19,
+            "Antimicrobial": "Polymyxins",
+            "CountryId": 71,
+            "CountryName": "Colombia ",
+            "ISO3": "COL",
+            "code": "CO",
+            "year": 2023,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 24207,
+            "value": 3,
+            "CILow": 3,
+            "CIHigh": 3
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 16,
+            "Antimicrobial": "Trimethoprim-sulfamethoxazole",
+            "CountryId": 71,
+            "CountryName": "Colombia ",
+            "ISO3": "COL",
+            "code": "CO",
+            "year": 2021,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 120706,
+            "value": 47,
+            "CILow": 47,
+            "CIHigh": 47
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 16,
+            "Antimicrobial": "Trimethoprim-sulfamethoxazole",
+            "CountryId": 71,
+            "CountryName": "Colombia ",
+            "ISO3": "COL",
+            "code": "CO",
+            "year": 2022,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 192409,
+            "value": 47,
+            "CILow": 47,
+            "CIHigh": 47
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 16,
+            "Antimicrobial": "Trimethoprim-sulfamethoxazole",
+            "CountryId": 71,
+            "CountryName": "Colombia ",
+            "ISO3": "COL",
+            "code": "CO",
+            "year": 2023,
+            "Source": "Global Antimicrobial Resistance Surveillance System (GLASS)",
+            "Notes": "",
+            "IsolatesTested": 205820,
+            "value": 46,
+            "CILow": 46,
+            "CIHigh": 46
+          }
+        ],
+        {
+          "minyear": 2021,
+          "maxyear": 2023
+        }
+      ]
+    }
+  ]
+}

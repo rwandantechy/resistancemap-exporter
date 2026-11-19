@@ -1,0 +1,296 @@
+{
+  "country": "Vietnam",
+  "region": "East Asia & Pacific",
+  "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=39&country=Vietnam",
+  "captured_at": "2026-11-19T06:40:27.219257+00:00",
+  "responses": [
+    {
+      "url": "https://resistancemap.onehealthtrust.org/getData.php",
+      "method": "POST",
+      "post_data": "orgId=3&abxId%5B%5D=6&abxId%5B%5D=5&abxId%5B%5D=7&abxId%5B%5D=2&abxId%5B%5D=4&abxId%5B%5D=14&countryId=39&charttype=trend&page=resistance&resetabxs=false&defaultValues=true&countryPage=true&accessvariable=m3FpfkdbPdYaUG56u9U!hUaHD",
+      "payload": [
+        {
+          "title": "Vietnam"
+        },
+        [
+          {
+            "AntimicrobialId": 4,
+            "Antimicrobial": "Aminoglycosides"
+          },
+          {
+            "AntimicrobialId": 2,
+            "Antimicrobial": "Aminopenicillins"
+          },
+          {
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems"
+          },
+          {
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones"
+          },
+          {
+            "AntimicrobialId": 14,
+            "Antimicrobial": "Piperacillin-tazobactam"
+          }
+        ],
+        [
+          {
+            "AntimicrobialId": 4,
+            "Antimicrobial": "Aminoglycosides"
+          },
+          {
+            "AntimicrobialId": 2,
+            "Antimicrobial": "Aminopenicillins"
+          },
+          {
+            "AntimicrobialId": 15,
+            "Antimicrobial": "Amoxicillin-clavulanate"
+          },
+          {
+            "AntimicrobialId": 48,
+            "Antimicrobial": "Ampicillin-sulbactam"
+          },
+          {
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems"
+          },
+          {
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones"
+          },
+          {
+            "AntimicrobialId": 18,
+            "Antimicrobial": "Glycylcyclines"
+          },
+          {
+            "AntimicrobialId": 14,
+            "Antimicrobial": "Piperacillin-tazobactam"
+          },
+          {
+            "AntimicrobialId": 19,
+            "Antimicrobial": "Polymyxins"
+          }
+        ],
+        [
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 4,
+            "Antimicrobial": "Aminoglycosides",
+            "CountryId": 39,
+            "CountryName": "Vietnam",
+            "ISO3": "VNM",
+            "code": "VN",
+            "year": 2013,
+            "Source": "Vietnam Resistance Project (VINARES)",
+            "Notes": "",
+            "IsolatesTested": 147,
+            "value": 44,
+            "CILow": 36,
+            "CIHigh": 52
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 4,
+            "Antimicrobial": "Aminoglycosides",
+            "CountryId": 39,
+            "CountryName": "Vietnam",
+            "ISO3": "VNM",
+            "code": "VN",
+            "year": 2016,
+            "Source": "Vietnam Resistance Project (VINARES)",
+            "Notes": "",
+            "IsolatesTested": 1124,
+            "value": 45,
+            "CILow": 42,
+            "CIHigh": 48
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 2,
+            "Antimicrobial": "Aminopenicillins",
+            "CountryId": 39,
+            "CountryName": "Vietnam",
+            "ISO3": "VNM",
+            "code": "VN",
+            "year": 2013,
+            "Source": "Vietnam Resistance Project (VINARES)",
+            "Notes": "",
+            "IsolatesTested": 164,
+            "value": 89,
+            "CILow": 83,
+            "CIHigh": 93
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 2,
+            "Antimicrobial": "Aminopenicillins",
+            "CountryId": 39,
+            "CountryName": "Vietnam",
+            "ISO3": "VNM",
+            "code": "VN",
+            "year": 2016,
+            "Source": "Vietnam Resistance Project (VINARES)",
+            "Notes": "",
+            "IsolatesTested": 783,
+            "value": 94,
+            "CILow": 92,
+            "CIHigh": 95
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems",
+            "CountryId": 39,
+            "CountryName": "Vietnam",
+            "ISO3": "VNM",
+            "code": "VN",
+            "year": 2013,
+            "Source": "Vietnam Resistance Project (VINARES)",
+            "Notes": "",
+            "IsolatesTested": 303,
+            "value": 9,
+            "CILow": 6,
+            "CIHigh": 13
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems",
+            "CountryId": 39,
+            "CountryName": "Vietnam",
+            "ISO3": "VNM",
+            "code": "VN",
+            "year": 2016,
+            "Source": "Vietnam Resistance Project (VINARES)",
+            "Notes": "",
+            "IsolatesTested": 985,
+            "value": 6,
+            "CILow": 5,
+            "CIHigh": 8
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)",
+            "CountryId": 39,
+            "CountryName": "Vietnam",
+            "ISO3": "VNM",
+            "code": "VN",
+            "year": 2013,
+            "Source": "Vietnam Resistance Project (VINARES)",
+            "Notes": "",
+            "IsolatesTested": 259,
+            "value": 64,
+            "CILow": 58,
+            "CIHigh": 70
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)",
+            "CountryId": 39,
+            "CountryName": "Vietnam",
+            "ISO3": "VNM",
+            "code": "VN",
+            "year": 2016,
+            "Source": "Vietnam Resistance Project (VINARES)",
+            "Notes": "",
+            "IsolatesTested": 1148,
+            "value": 71,
+            "CILow": 68,
+            "CIHigh": 74
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "CountryId": 39,
+            "CountryName": "Vietnam",
+            "ISO3": "VNM",
+            "code": "VN",
+            "year": 2013,
+            "Source": "Vietnam Resistance Project (VINARES)",
+            "Notes": "",
+            "IsolatesTested": 225,
+            "value": 57,
+            "CILow": 50,
+            "CIHigh": 63
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "CountryId": 39,
+            "CountryName": "Vietnam",
+            "ISO3": "VNM",
+            "code": "VN",
+            "year": 2016,
+            "Source": "Vietnam Resistance Project (VINARES)",
+            "Notes": "",
+            "IsolatesTested": 1106,
+            "value": 66,
+            "CILow": 63,
+            "CIHigh": 69
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 14,
+            "Antimicrobial": "Piperacillin-tazobactam",
+            "CountryId": 39,
+            "CountryName": "Vietnam",
+            "ISO3": "VNM",
+            "code": "VN",
+            "year": 2013,
+            "Source": "Vietnam Resistance Project (VINARES)",
+            "Notes": "",
+            "IsolatesTested": 153,
+            "value": 8,
+            "CILow": 5,
+            "CIHigh": 13
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 14,
+            "Antimicrobial": "Piperacillin-tazobactam",
+            "CountryId": 39,
+            "CountryName": "Vietnam",
+            "ISO3": "VNM",
+            "code": "VN",
+            "year": 2016,
+            "Source": "Vietnam Resistance Project (VINARES)",
+            "Notes": "",
+            "IsolatesTested": 1163,
+            "value": 17,
+            "CILow": 15,
+            "CIHigh": 19
+          }
+        ],
+        {
+          "minyear": 2013,
+          "maxyear": 2016
+        }
+      ]
+    }
+  ]
+}

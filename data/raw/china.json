@@ -1,0 +1,292 @@
+{
+  "country": "China",
+  "region": "East Asia & Pacific",
+  "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=70&country=China+",
+  "captured_at": "2026-11-19T06:26:58.488975+00:00",
+  "responses": [
+    {
+      "url": "https://resistancemap.onehealthtrust.org/getData.php",
+      "method": "POST",
+      "post_data": "orgId=3&abxId%5B%5D=6&abxId%5B%5D=5&abxId%5B%5D=4&abxId%5B%5D=14&abxId%5B%5D=19&abxId%5B%5D=15&countryId=70&charttype=trend&page=resistance&resetabxs=false&defaultValues=true&countryPage=true&accessvariable=kWZ1OhKRDP7z!6ebkYN*4V8j1",
+      "payload": [
+        {
+          "title": "China "
+        },
+        [
+          {
+            "AntimicrobialId": 4,
+            "Antimicrobial": "Aminoglycosides"
+          },
+          {
+            "AntimicrobialId": 15,
+            "Antimicrobial": "Amoxicillin-clavulanate"
+          },
+          {
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems"
+          },
+          {
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)"
+          },
+          {
+            "AntimicrobialId": 14,
+            "Antimicrobial": "Piperacillin-tazobactam"
+          },
+          {
+            "AntimicrobialId": 19,
+            "Antimicrobial": "Polymyxins"
+          }
+        ],
+        [
+          {
+            "AntimicrobialId": 4,
+            "Antimicrobial": "Aminoglycosides"
+          },
+          {
+            "AntimicrobialId": 2,
+            "Antimicrobial": "Aminopenicillins"
+          },
+          {
+            "AntimicrobialId": 15,
+            "Antimicrobial": "Amoxicillin-clavulanate"
+          },
+          {
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems"
+          },
+          {
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones"
+          },
+          {
+            "AntimicrobialId": 18,
+            "Antimicrobial": "Glycylcyclines"
+          },
+          {
+            "AntimicrobialId": 14,
+            "Antimicrobial": "Piperacillin-tazobactam"
+          },
+          {
+            "AntimicrobialId": 19,
+            "Antimicrobial": "Polymyxins"
+          }
+        ],
+        [
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 4,
+            "Antimicrobial": "Aminoglycosides",
+            "CountryId": 70,
+            "CountryName": "China ",
+            "ISO3": "CHN",
+            "code": "CN",
+            "year": 2016,
+            "Source": "China Antimicrobial Surveillance Network (CHINET)",
+            "Notes": "",
+            "IsolatesTested": 4166,
+            "value": 43,
+            "CILow": 42,
+            "CIHigh": 45
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 4,
+            "Antimicrobial": "Aminoglycosides",
+            "CountryId": 70,
+            "CountryName": "China ",
+            "ISO3": "CHN",
+            "code": "CN",
+            "year": 2017,
+            "Source": "China Antimicrobial Surveillance Network (CHINET)",
+            "Notes": "",
+            "IsolatesTested": 6520,
+            "value": 42,
+            "CILow": 41,
+            "CIHigh": 43
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 15,
+            "Antimicrobial": "Amoxicillin-clavulanate",
+            "CountryId": 70,
+            "CountryName": "China ",
+            "ISO3": "CHN",
+            "code": "CN",
+            "year": 2016,
+            "Source": "China Antimicrobial Surveillance Network (CHINET)",
+            "Notes": "",
+            "IsolatesTested": 4166,
+            "value": 13,
+            "CILow": 12,
+            "CIHigh": 14
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 15,
+            "Antimicrobial": "Amoxicillin-clavulanate",
+            "CountryId": 70,
+            "CountryName": "China ",
+            "ISO3": "CHN",
+            "code": "CN",
+            "year": 2017,
+            "Source": "China Antimicrobial Surveillance Network (CHINET)",
+            "Notes": "",
+            "IsolatesTested": 6520,
+            "value": 14,
+            "CILow": 13,
+            "CIHigh": 15
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems",
+            "CountryId": 70,
+            "CountryName": "China ",
+            "ISO3": "CHN",
+            "code": "CN",
+            "year": 2016,
+            "Source": "China Antimicrobial Surveillance Network (CHINET)",
+            "Notes": "",
+            "IsolatesTested": 4166,
+            "value": 2,
+            "CILow": 2,
+            "CIHigh": 2
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems",
+            "CountryId": 70,
+            "CountryName": "China ",
+            "ISO3": "CHN",
+            "code": "CN",
+            "year": 2017,
+            "Source": "China Antimicrobial Surveillance Network (CHINET)",
+            "Notes": "",
+            "IsolatesTested": 6520,
+            "value": 3,
+            "CILow": 3,
+            "CIHigh": 3
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)",
+            "CountryId": 70,
+            "CountryName": "China ",
+            "ISO3": "CHN",
+            "code": "CN",
+            "year": 2016,
+            "Source": "China Antimicrobial Surveillance Network (CHINET)",
+            "Notes": "",
+            "IsolatesTested": 4166,
+            "value": 64,
+            "CILow": 63,
+            "CIHigh": 65
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)",
+            "CountryId": 70,
+            "CountryName": "China ",
+            "ISO3": "CHN",
+            "code": "CN",
+            "year": 2017,
+            "Source": "China Antimicrobial Surveillance Network (CHINET)",
+            "Notes": "",
+            "IsolatesTested": 6520,
+            "value": 64,
+            "CILow": 63,
+            "CIHigh": 65
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 14,
+            "Antimicrobial": "Piperacillin-tazobactam",
+            "CountryId": 70,
+            "CountryName": "China ",
+            "ISO3": "CHN",
+            "code": "CN",
+            "year": 2016,
+            "Source": "China Antimicrobial Surveillance Network (CHINET)",
+            "Notes": "",
+            "IsolatesTested": 4166,
+            "value": 5,
+            "CILow": 4,
+            "CIHigh": 6
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 14,
+            "Antimicrobial": "Piperacillin-tazobactam",
+            "CountryId": 70,
+            "CountryName": "China ",
+            "ISO3": "CHN",
+            "code": "CN",
+            "year": 2017,
+            "Source": "China Antimicrobial Surveillance Network (CHINET)",
+            "Notes": "",
+            "IsolatesTested": 6520,
+            "value": 6,
+            "CILow": 5,
+            "CIHigh": 7
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 19,
+            "Antimicrobial": "Polymyxins",
+            "CountryId": 70,
+            "CountryName": "China ",
+            "ISO3": "CHN",
+            "code": "CN",
+            "year": 2016,
+            "Source": "China Antimicrobial Surveillance Network (CHINET)",
+            "Notes": "",
+            "IsolatesTested": 4166,
+            "value": 2,
+            "CILow": 2,
+            "CIHigh": 2
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 19,
+            "Antimicrobial": "Polymyxins",
+            "CountryId": 70,
+            "CountryName": "China ",
+            "ISO3": "CHN",
+            "code": "CN",
+            "year": 2017,
+            "Source": "China Antimicrobial Surveillance Network (CHINET)",
+            "Notes": "",
+            "IsolatesTested": 6520,
+            "value": 6,
+            "CILow": 5,
+            "CIHigh": 7
+          }
+        ],
+        {
+          "minyear": 2016,
+          "maxyear": 2017
+        }
+      ]
+    }
+  ]
+}

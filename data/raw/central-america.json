@@ -1,0 +1,1224 @@
+{
+  "country": "Central America",
+  "region": "Latin America & Caribbean",
+  "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=68&country=Central+America",
+  "captured_at": "2026-11-19T06:49:33.926984+00:00",
+  "responses": [
+    {
+      "url": "https://resistancemap.onehealthtrust.org/getData.php",
+      "method": "POST",
+      "post_data": "abxId%5B%5D=33&abxId%5B%5D=34&abxId%5B%5D=7&abxId%5B%5D=10&abxId%5B%5D=40&countryId=68&charttype=trend&page=use&units=DDD&defaultValues=true&countryPage=true&accessvariable=Xoh0sG0r5jqhOTY%7BC%7D3XSJVA7",
+      "payload": [
+        {
+          "country": "Central America"
+        },
+        [
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 438.09529,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2000,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 443.07977,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2001,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 439.71263,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2002,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 478.37574,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2003,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 482.82904,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2004,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 590.34813,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2005,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 634.81749,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2006,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 646.47216,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2007,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 619.2397,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2008,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 562.46009,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2009,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 588.94971,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2010,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 599.27443,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2011,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 583.20253,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2012,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 598.20811,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2013,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 622.58995,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2014,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 681.23887,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2015,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 424.6812,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2016,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 557.222,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2017,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 574.532,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2018,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 680.1877,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2019,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 714.2511,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2020,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 779.4278,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2021,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 934.2294,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2022,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 33,
+            "Antimicrobial": "Broad spectrum penicillins",
+            "value": 1067.206,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2023,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 101.96913,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2000,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 101.30551,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2001,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 92.84913,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2002,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 101.95903,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2003,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 107.08371,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2004,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 101.73336,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2005,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 106.02318,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2006,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 122.19963,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2007,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 125.51423,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2008,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 119.88595,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2009,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 125.79366,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2010,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 126.91485,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2011,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 139.15964,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2012,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 138.73805,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2013,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 150.3244,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2014,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 153.49566,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2015,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 151.2324,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2016,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 162.1326,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2017,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 142.8595,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2018,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 151.5973,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2019,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 142.839,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2020,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 173.23,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2021,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 179.5138,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2022,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 34,
+            "Antimicrobial": "Cephalosporins",
+            "value": 193.8257,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2023,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 96.94419,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2000,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 99.51467,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2001,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 92.67093,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2002,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 104.77695,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2003,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 112.82909,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2004,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 172.99828,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2005,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 186.0217,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2006,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 218.25298,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2007,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 220.95314,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2008,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 227.94933,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2009,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 228.9783,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2010,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 239.18856,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2011,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 252.66171,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2012,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 252.09137,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2013,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 261.9261,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2014,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 266.0634,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2015,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 261.9433,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2016,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 296.294,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2017,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 274.6447,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2018,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 286.6439,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2019,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 283.1101,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2020,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 345.1571,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2021,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 320.165,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2022,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones",
+            "value": 330.0883,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2023,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 154.39804,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2000,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 141.14602,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2001,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 123.43953,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2002,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 131.66147,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2003,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 121.65374,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2004,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 132.62711,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2005,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 144.969,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2006,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 165.34622,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2007,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 158.85911,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2008,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 145.86936,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2009,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 158.95545,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2010,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 155.62671,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2011,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 159.59906,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2012,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 159.71406,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2013,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 167.59029,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2014,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 160.0347,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2015,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 241.0255,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2016,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 297.0579,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2017,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 260.9429,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2018,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 270.312,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2019,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 408.4591,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2020,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 425.8892,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2021,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 423.9265,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2022,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 10,
+            "Antimicrobial": "Macrolides",
+            "value": 450.2587,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2023,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 220.88121,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2000,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 197.61807,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2001,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 184.0803,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2002,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 168.40072,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2003,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 155.86832,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2004,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 95.77262,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2005,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 98.12845,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2006,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 104.35888,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2007,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 88.24807,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2008,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 79.85567,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2009,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 84.94047,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2010,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 79.92568,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2011,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 80.3634,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2012,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 79.22628,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2013,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 77.32063,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2014,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 76.5196,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2015,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 78.55838,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2016,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 94.07211,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2017,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 96.96789,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2018,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 105.933,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2019,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 99.65439,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2020,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 115.8065,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2021,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 109.891,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2022,
+            "Sector": "Retail"
+          },
+          {
+            "AntimicrobialId": 40,
+            "Antimicrobial": "Trimethoprim",
+            "value": 128.1489,
+            "CountryName": "Central America",
+            "ISO3": "CAM",
+            "code": "CE",
+            "Year": 2023,
+            "Sector": "Retail"
+          }
+        ],
+        {
+          "minyear": 2000,
+          "maxyear": 2023
+        }
+      ]
+    }
+  ]
+}

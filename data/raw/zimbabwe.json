@@ -1,0 +1,186 @@
+{
+  "country": "Zimbabwe",
+  "region": "Sub-Saharan Africa",
+  "source_url": "https://resistancemap.onehealthtrust.org/CountryPage.php?countryId=109&country=Zimbabwe",
+  "captured_at": "2026-11-19T06:57:57.279695+00:00",
+  "responses": [
+    {
+      "url": "https://resistancemap.onehealthtrust.org/getData.php",
+      "method": "POST",
+      "post_data": "orgId=3&abxId%5B%5D=6&abxId%5B%5D=5&abxId%5B%5D=2&abxId%5B%5D=4&abxId%5B%5D=14&abxId%5B%5D=15&countryId=109&charttype=trend&page=resistance&resetabxs=false&defaultValues=true&countryPage=true&accessvariable=M!C!1MeoQHjn!wZLT8bjBRRVp",
+      "payload": [
+        {
+          "title": "Zimbabwe"
+        },
+        [
+          {
+            "AntimicrobialId": 4,
+            "Antimicrobial": "Aminoglycosides"
+          },
+          {
+            "AntimicrobialId": 2,
+            "Antimicrobial": "Aminopenicillins"
+          },
+          {
+            "AntimicrobialId": 15,
+            "Antimicrobial": "Amoxicillin-clavulanate"
+          },
+          {
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems"
+          },
+          {
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)"
+          },
+          {
+            "AntimicrobialId": 14,
+            "Antimicrobial": "Piperacillin-tazobactam"
+          }
+        ],
+        [
+          {
+            "AntimicrobialId": 4,
+            "Antimicrobial": "Aminoglycosides"
+          },
+          {
+            "AntimicrobialId": 2,
+            "Antimicrobial": "Aminopenicillins"
+          },
+          {
+            "AntimicrobialId": 15,
+            "Antimicrobial": "Amoxicillin-clavulanate"
+          },
+          {
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems"
+          },
+          {
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)"
+          },
+          {
+            "AntimicrobialId": 7,
+            "Antimicrobial": "Fluoroquinolones"
+          },
+          {
+            "AntimicrobialId": 18,
+            "Antimicrobial": "Glycylcyclines"
+          },
+          {
+            "AntimicrobialId": 14,
+            "Antimicrobial": "Piperacillin-tazobactam"
+          }
+        ],
+        [
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 4,
+            "Antimicrobial": "Aminoglycosides",
+            "CountryId": 109,
+            "CountryName": "Zimbabwe",
+            "ISO3": "ZWE",
+            "code": "ZW",
+            "year": 2015,
+            "Source": "Lancet Laboratories",
+            "Notes": "",
+            "IsolatesTested": 56,
+            "value": 32,
+            "CILow": 21,
+            "CIHigh": 45
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 2,
+            "Antimicrobial": "Aminopenicillins",
+            "CountryId": 109,
+            "CountryName": "Zimbabwe",
+            "ISO3": "ZWE",
+            "code": "ZW",
+            "year": 2015,
+            "Source": "Lancet Laboratories",
+            "Notes": "",
+            "IsolatesTested": 56,
+            "value": 93,
+            "CILow": 83,
+            "CIHigh": 97
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 15,
+            "Antimicrobial": "Amoxicillin-clavulanate",
+            "CountryId": 109,
+            "CountryName": "Zimbabwe",
+            "ISO3": "ZWE",
+            "code": "ZW",
+            "year": 2015,
+            "Source": "Lancet Laboratories",
+            "Notes": "",
+            "IsolatesTested": 56,
+            "value": 64,
+            "CILow": 51,
+            "CIHigh": 75
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 5,
+            "Antimicrobial": "Carbapenems",
+            "CountryId": 109,
+            "CountryName": "Zimbabwe",
+            "ISO3": "ZWE",
+            "code": "ZW",
+            "year": 2015,
+            "Source": "Lancet Laboratories",
+            "Notes": "",
+            "IsolatesTested": 56,
+            "value": 0,
+            "CILow": 0,
+            "CIHigh": 6
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 6,
+            "Antimicrobial": "Cephalosporins (3rd gen)",
+            "CountryId": 109,
+            "CountryName": "Zimbabwe",
+            "ISO3": "ZWE",
+            "code": "ZW",
+            "year": 2015,
+            "Source": "Lancet Laboratories",
+            "Notes": "",
+            "IsolatesTested": 56,
+            "value": 64,
+            "CILow": 51,
+            "CIHigh": 75
+          },
+          {
+            "Organism": "Escherichia coli",
+            "OrganismId": 3,
+            "AntimicrobialId": 14,
+            "Antimicrobial": "Piperacillin-tazobactam",
+            "CountryId": 109,
+            "CountryName": "Zimbabwe",
+            "ISO3": "ZWE",
+            "code": "ZW",
+            "year": 2015,
+            "Source": "Lancet Laboratories",
+            "Notes": "",
+            "IsolatesTested": 56,
+            "value": 63,
+            "CILow": 50,
+            "CIHigh": 74
+          }
+        ],
+        {
+          "minyear": 2015,
+          "maxyear": 2015
+        }
+      ]
+    }
+  ]
+}
