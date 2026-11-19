@@ -113,6 +113,7 @@ def build_notes_sheet(wb, extracted_at: datetime) -> None:
     ws.append(["Timezone", "UTC"])
     ws.append(["Resistance scale", "Percentages are stored on the site-reported 0-100 scale"])
     ws.append(["Missing values", "No source value: blank/NaN; not imputed or converted to zero"])
+    ws.append(["Antibiotic-use unit", "Taken from the source request or payload; blank when not verified"])
     ws.append([])
     ws.append(["Tab", "Column", "Description", "Unit / Format"])
 
@@ -128,15 +129,15 @@ def build_notes_sheet(wb, extracted_at: datetime) -> None:
         ("Antibiotic Resistance", "Pathogen", "Target pathogen / organism", "Text"),
         ("Antibiotic Resistance", "Antibiotic", "Antibiotic or antibiotic class", "Text"),
         ("Antibiotic Use", "Consumption Rate", "Reported antibiotic consumption value", "Numeric"),
-        ("Antibiotic Use", "Unit", "Measurement unit", "DDD per 1,000 inhabitants/day"),
+        ("Antibiotic Use", "Unit", "Measurement unit from the source request or payload", "Source-provided; blank if unverified"),
         ("Antibiotic Use", "Antibiotic Class / Category", "Antibiotic category", "Text"),
         ("Antibiotic Use", "Data Source", "Sector or source attribution from payload", "Text"),
     ]
     for row in dictionary:
         ws.append(row)
 
-    ws.freeze_panes = "A9"
-    for cell in ws[9]:
+    ws.freeze_panes = "A10"
+    for cell in ws[10]:
         cell.fill = PatternFill("solid", fgColor=NAVY)
         cell.font = Font(bold=True, color=WHITE)
     autofit(ws)
