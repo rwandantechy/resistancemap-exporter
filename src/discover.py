@@ -19,37 +19,42 @@ def slugify(value: str) -> str:
 def discover_countries(headless: bool = True) -> list[dict]:
     with sync_playwright() as playwright:
         browser = playwright.chromium.launch(headless=headless)
-        page = browser.new_page()
-        page.goto(COUNTRY_DIRECTORY_URL, wait_until="networkidle", timeout=60_000)
-        page.wait_for_timeout(1_500)
-        discovered = page.evaluate(
-            """() => {
-                const regions = [];
-                let currentRegion = null;
-                for (const li of document.querySelectorAll('ul.countrylist > li')) {
-                    const regionNode = li.querySelector('.countries_region_head_country');
-                    if (regionNode) {
-                        currentRegion = regionNode.textContent.trim();
-                        continue;
-                    }
-                    const anchor = li.querySelector('a[href*="CountryPage"]');
-                    if (!anchor || !currentRegion) continue;
-                    const href = anchor.getAttribute('href');
-                    const countryIdMatch = href.match(/[?&]countryId=(\\d+)/);
-                    const imageSources = Array.from(li.querySelectorAll('img')).map(img => img.getAttribute('src') || '');
-                    regions.push({
-                        region: currentRegion,
-                        country: anchor.textContent.trim(),
-                        countryId: countryIdMatch ? countryIdMatch[1] : null,
-                        resistanceAvailable: imageSources.some(src => /bug\\.png/.test(src)) ? 'Yes' : 'No',
-                        useAvailable: imageSources.some(src => /drug\\.png/.test(src)) ? 'Yes' : 'No',
-                        href: href
-                    });
-                }
-                return regions;
-            }"""
-        )
-        browser.close()
+        try:
+            page = browser.new_page()
+            try:
+                page.goto(COUNTRY_DIRECTORY_URL, wait_until="networkidle", timeout=60_000)
+                page.wait_for_timeout(1_500)
+                discovered = page.evaluate(
+                    """() => {
+                        const regions = [];
+                        let currentRegion = null;
+                        for (const li of document.querySelectorAll('ul.countrylist > li')) {
+                            const regionNode = li.querySelector('.countries_region_head_country');
+                            if (regionNode) {
+                                currentRegion = regionNode.textContent.trim();
+                                continue;
+                            }
+                            const anchor = li.querySelector('a[href*="CountryPage"]');
+                            if (!anchor || !currentRegion) continue;
+                            const href = anchor.getAttribute('href');
+                            const countryIdMatch = href.match(/[?&]countryId=(\\d+)/);
+                            const imageSources = Array.from(li.querySelectorAll('img')).map(img => img.getAttribute('src') || '');
+                            regions.push({
+                                region: currentRegion,
+                                country: anchor.textContent.trim(),
+                                countryId: countryIdMatch ? countryIdMatch[1] : null,
+                                resistanceAvailable: imageSources.some(src => /bug\\.png/.test(src)) ? 'Yes' : 'No',
+                                useAvailable: imageSources.some(src => /drug\\.png/.test(src)) ? 'Yes' : 'No',
+                                href: href
+                            });
+                        }
+                        return regions;
+                    }"""
+                )
+            finally:
+                page.close()
+        finally:
+            browser.close()
 
     manifest: list[dict] = []
     for item in discovered:

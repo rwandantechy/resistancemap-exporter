@@ -1,5 +1,6 @@
 import json
-import math
+import logging
+from urllib.parse import parse_qs
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
@@ -7,6 +8,8 @@ from typing import Any
 import pandas as pd
 
 from config import MANIFEST_PATH, RAW_DIR
+
+logger = logging.getLogger(__name__)
 
 
 RESISTANCE_COLUMNS = [
@@ -35,13 +38,59 @@ def to_numeric(value: Any) -> float | None:
         return None
 
 
+def source_unit(response: dict, record: dict) -> str | None:
+    post_data = response.get("post_data")
+    if isinstance(post_data, str):
+        units = parse_qs(post_data).get("units")
+        if units:
+            return units[0].replace("+", " ")
+    for key in ("Unit", "Units", "unit", "units", "UnitName"):
+        value = record.get(key)
+        if isinstance(value, str) and value.strip():
+            return value.strip()
+    return None
+
+
+def load_manifest() -> list[dict]:
+    if not MANIFEST_PATH.exists():
+        raise RuntimeError(f"Country manifest is missing: {MANIFEST_PATH}")
+    try:
+        manifest = json.loads(MANIFEST_PATH.read_text(encoding="utf-8"))
+    except json.JSONDecodeError as exc:
+        raise RuntimeError(f"Country manifest is invalid JSON: {MANIFEST_PATH}: {exc}") from exc
+    if not isinstance(manifest, list) or not manifest:
+        raise RuntimeError(f"Country manifest must contain a non-empty JSON list: {MANIFEST_PATH}")
+    for index, entry in enumerate(manifest, start=1):
+        if not isinstance(entry, dict):
+            raise RuntimeError(f"Country manifest entry {index} must be a JSON object")
+        missing = [field for field in ("country", "slug", "region", "source_url") if not isinstance(entry.get(field), str) or not entry[field].strip()]
+        if missing:
+            raise RuntimeError(f"Country manifest entry {index} has missing or invalid fields: {', '.join(missing)}")
+    return manifest
+
+
+def load_cache(cache_path: Path) -> dict | None:
+    if not cache_path.exists():
+        logger.warning("Missing cached JSON for %s: %s", cache_path.stem, cache_path)
+        return None
+    try:
+        cache = json.loads(cache_path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError as exc:
+        logger.error("Invalid cached JSON for %s: %s (%s)", cache_path.stem, cache_path, exc)
+        return None
+    if not isinstance(cache, dict) or not isinstance(cache.get("responses"), list):
+        logger.error("Invalid cache structure for %s: %s", cache_path.stem, cache_path)
+        return None
+    return cache
+
+
 def numeric_year(value: Any) -> int | None:
     number = to_numeric(value)
     return int(number) if number is not None and number.is_integer() else None
 
 
 def parse_all() -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame, datetime]:
-    manifest = json.loads(MANIFEST_PATH.read_text(encoding="utf-8"))
+    manifest = load_manifest()
     resistance_rows: list[dict] = []
     use_rows: list[dict] = []
     latest_resistance: dict[str, int | None] = {}
@@ -51,8 +100,16 @@ def parse_all() -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame, datetime]:
         cache_path = RAW_DIR / f"{entry['slug']}.json"
         resistance_years: list[int] = []
         use_years: list[int] = []
-        if cache_path.exists():
-            cache = json.loads(cache_path.read_text(encoding="utf-8"))
+        cache = load_cache(cache_path)
+        if cache is not None:
+            if entry.get("use_available") == "Yes" and not any(
+                "page=use" in str(response.get("post_data", ""))
+                for response in cache.get("responses", [])
+            ):
+                logger.warning(
+                    "No antibiotic-use response found in cached JSON for %s",
+                    entry["country"],
+                )
             for response in cache.get("responses", []):
                 payload = response.get("payload")
                 if not isinstance(payload, list):
@@ -93,7 +150,7 @@ def parse_all() -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame, datetime]:
                             "Year": year,
                             "Antibiotic Class / Category": record.get(antimicrobial_key) if antimicrobial_key else None,
                             "Consumption Rate": to_numeric(record.get(value_key)) if value_key else None,
-                            "Unit": "DDD per 1,000 inhabitants/day",
+                            "Unit": source_unit(response, record),
                             "Data Source": record.get(sector_key) if sector_key else "ResistanceMap",
                         })
                         continue
