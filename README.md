@@ -105,9 +105,8 @@ data/raw/countries_manifest.json
 
 - Missing or null values remain blank. They are not converted to zero.
 - Resistance percentages use the 0–100 scale reported by ResistanceMap.
-- Antibiotic-use units come from the source request or response when available.
-  If the source does not provide a verifiable unit, the workbook leaves the unit
-  blank.
+- Antibiotic use is reported in DDD per 1,000 inhabitants per day unless the
+  source indicates another unit.
 - Country availability in the overview is based on ResistanceMap's country
   directory.
 - A country can appear in the manifest but still have no downloadable payload.
