@@ -1,10 +1,22 @@
-# ResistanceMap Country Data Exporter
+# ResistanceMap Exporter
 
-Production-oriented Python pipeline for extracting country-level antibiotic resistance and use data from One Health Trust ResistanceMap.
+This project collects publicly available antibiotic resistance and use data from
+[One Health Trust ResistanceMap](https://resistancemap.onehealthtrust.org/) and
+turns it into a single Excel workbook.
 
-## Setup
+The scraper first discovers available countries, downloads their data, and stores
+the original responses as JSON. It then combines those responses into overview,
+resistance, and antibiotic-use worksheets.
 
-Python 3.11 or newer is required.
+## Requirements
+
+- Python 3.11 or newer
+- An internet connection
+- Playwright Chromium
+
+## Getting started
+
+From the project folder:
 
 ```bash
 cd resistancemap-exporter
@@ -14,56 +26,88 @@ python -m pip install -r requirements.txt
 python -m playwright install chromium
 ```
 
-## Commands
+## Using the exporter
 
-Discover countries and write the manifest:
+### Run everything
 
-```bash
-python main.py --discover-only
-```
-
-Run discovery and scrape the first five countries:
-
-```bash
-python main.py --limit 5
-```
-
-Scrape without exporting:
-
-```bash
-python main.py --scrape-only --limit 5
-```
-
-Scrape or retry a single country:
-
-```bash
-python main.py --scrape-only --country "Côte d'Ivoire" --force
-```
-
-Force a cache refresh:
-
-```bash
-python main.py --scrape-only --force
-```
-
-Export cached payloads without network discovery or scraping:
-
-```bash
-python main.py --export-only
-```
-
-Run the complete scrape and export:
+Discover countries, scrape available data, and create the Excel workbook:
 
 ```bash
 python main.py
 ```
 
-The generated workbook is written to `data/output/ResistanceMap_Country_Data_<YYYY-MM-DD>.xlsx`. Cached JSON payloads are stored in `data/raw/<country-slug>.json`.
+### Discover countries
+
+Refresh the country manifest without downloading country data:
+
+```bash
+python main.py --discover-only
+```
+
+### Scrape data
+
+Scrape without exporting an Excel workbook:
+
+```bash
+python main.py --scrape-only
+```
+
+To limit the run to the first few countries:
+
+```bash
+python main.py --scrape-only --limit 5
+```
+
+To refresh already-cached countries:
+
+```bash
+python main.py --scrape-only --force
+```
+
+To scrape or retry one country:
+
+```bash
+python main.py --scrape-only --country "Côte d'Ivoire" --force
+```
+
+Use the country name or slug. For example, `Côte d'Ivoire` and
+`cote-d-ivoire` refer to the same country.
+
+### Export without scraping
+
+Create a workbook only from the JSON files already stored locally:
+
+```bash
+python main.py --export-only
+```
+
+## Generated files
+
+The workbook is saved to:
+
+```text
+data/output/ResistanceMap_Country_Data_<YYYY-MM-DD>.xlsx
+```
+
+The downloaded JSON responses are saved to:
+
+```text
+data/raw/<country-slug>.json
+```
+
+The discovered country list is stored in:
+
+```text
+data/raw/countries_manifest.json
+```
 
 ## Data notes
 
-- Missing and null metrics remain blank/`NaN`; they are never converted to zero.
-- Resistance percentages are interpreted on the source-reported 0-100 scale.
-- Use values are reported in DDD per 1,000 inhabitants/day unless the payload indicates otherwise.
-- Country availability is based on the ResistanceMap country directory icons.
-# ResistanceMap Exporter
+- Missing or null values remain blank. They are not converted to zero.
+- Resistance percentages use the 0–100 scale reported by ResistanceMap.
+- Antibiotic use is reported in DDD per 1,000 inhabitants per day unless the
+  source indicates another unit.
+- Country availability in the overview is based on ResistanceMap's country
+  directory.
+- A country can appear in the manifest but still have no downloadable payload.
+  In that case, the exporter reports `FAILED - No JSON payload captured`.
